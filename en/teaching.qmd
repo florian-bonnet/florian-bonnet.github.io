@@ -1,0 +1,22 @@
+---
+title: "Teaching"
+---
+
+## Current teaching
+
+### Classes préparatoires
+**Économie-droit, 2e année** — [ENC Blomet](https://www.encblomet.fr), Paris
+
+### University teaching
+- **L2** — Toulouse School of Economics
+- **M2** — Paris School of Economics
+- **M2** — Université d'Angers
+
+## Approach to teaching
+
+My slides are built in LaTeX Beamer with a strong preference for visual content over bullet points. Materials are typically available upon request — please reach out by [email](about/contact.qmd).
+
+## Past supervision
+
+*To be populated.*
+---

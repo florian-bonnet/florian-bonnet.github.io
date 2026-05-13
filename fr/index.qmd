@@ -1,0 +1,55 @@
+---
+title: "Florian Bonnet"
+subtitle: "Chargé de recherches à l'INED"
+image: ../images/profile.jpg
+about:
+  template: trestles
+  image-shape: round
+  image-width: 14em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:ton.email@example.com
+    - icon: github
+      text: GitHub
+      href: https://github.com/florianbonnet
+    - text: "{{< iconify academicons:google-scholar >}} Scholar"
+      href: https://scholar.google.com/citations?user=YOURID
+    - text: "{{< iconify academicons:orcid >}} ORCID"
+      href: https://orcid.org/0000-0000-0000-0000
+    - text: "{{< iconify academicons:hal >}} HAL"
+      href: https://hal.science/search/index/?q=florian+bonnet
+---
+
+## Présentation
+
+Je suis chargé de recherches à l'[Institut national d'études démographiques (INED)](https://www.ined.fr), à Aubervilliers. Économiste et démographe, mes recherches portent sur **la mortalité, les inégalités spatiales et les dynamiques de divergence démographique de long terme**.
+
+Je suis co-directeur de la [French Regional Database](https://frdb.site.ined.fr) et membre élu du conseil d'administration de l'INED.
+
+## En cours
+
+-   **Morts de désespoir en Europe** — manuscrit en révision à *The Lancet Public Health* (avec Pavel Grigoriev, BiB Wiesbaden)
+-   **ANR SPLIT** — Spatial Polarization of Longevity in Post-Pandemic Europe (PI, avec Pavel Grigoriev côté allemand)
+-   **ERC Redim, ANR Worth-IT, ANR Socface, COST "The Great Leap"** — projets collaboratifs sur les dynamiques démographiques régionales
+-   **Décodage des données françaises de mortalité 1950–1967** — fichiers binaires VAX F_floating issus de Vallin & Meslé (INED, 1988)
+
+## Publications sélectionnées
+
+::: {.callout-note appearance="simple" icon="false"}
+*Travaux mis en avant — voir la [liste complète des publications](research/publications.qmd).*
+:::
+
+-   **Bonnet, F.** et al. (2026). [Titre du papier Nature Communications](#). *Nature Communications*.
+-   **Bonnet, F.** et al. (2025). Mortalité dans les arrondissements parisiens 1890–1949. *Population and Development Review*.
+-   **Bonnet, F.** et al. (2026). Concentration spatiale des hauts revenus. *Journal of Economic Geography*.
+
+## Actualité
+
+-   🗞️ Couverture dans *Le Monde*, *FAZ*, *Die Welt*, *France Culture* — voir [Media](research/media.qmd)
+
+-   🎤 Séminaire sur la longévité extrême en France, 9 avril 2026
+
+-   
+
+    ## 📄 Soumission à *Demography* (tables de mortalité parisiennes, avec G. Camarda & C. Torres)

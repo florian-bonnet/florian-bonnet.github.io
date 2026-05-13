@@ -1,0 +1,39 @@
+---
+title: "CV"
+---
+
+[{{< iconify ph file-pdf >}} **Télécharger le CV complet (PDF)**](../../files/cv-bonnet.pdf){.btn .btn-primary role="button"}
+
+---
+
+## Poste actuel
+
+- **2020 – présent**: *Chargé de recherches*, Institut national d'études démographiques (INED), Aubervilliers / Paris
+
+## Formation
+
+- **2015 – 2018**: Doctorat, Paris School of Economics & ENS Paris-Saclay
+  - *Prix de la meilleure thèse, Paris 1 Panthéon-Sorbonne*
+- **2012 – 2013**: Agrégation d'économie-gestion, *classé 1er*
+
+## Responsabilités et affiliations
+
+- **Co-directeur**, [French Regional Database](https://frdb.site.ined.fr)
+- **Membre élu**, Conseil d'administration de l'INED (depuis 2023)
+- **Participation active à** :
+  - ERC *Redim*
+  - ANR *Worth-IT*
+  - ANR *Socface*
+  - ANR *SPLIT* (PI)
+  - COST *The Great Leap*
+- **Reviewer** pour ~20 revues dont *Nature Human Behaviour*, *Demography*, *The Lancet*, *Population and Development Review*
+
+## Distinctions
+
+- Prix de la meilleure thèse, Paris 1 Panthéon-Sorbonne
+- Classé 1er, Agrégation d'économie-gestion 2012–13
+
+## Communications
+
+*Voir [Publications](../research/publications.qmd) pour les séminaires liés aux papiers.*
+---

@@ -1,0 +1,52 @@
+---
+title: "Florian Bonnet"
+subtitle: "Chargé de recherches at INED"
+image: ../images/profile.jpg
+about:
+  template: trestles
+  image-shape: round
+  image-width: 14em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:ton.email@example.com
+    - icon: github
+      text: GitHub
+      href: https://github.com/florianbonnet
+    - text: "{{< iconify academicons:google-scholar >}} Scholar"
+      href: https://scholar.google.com/citations?user=YOURID
+    - text: "{{< iconify academicons:orcid >}} ORCID"
+      href: https://orcid.org/0000-0000-0000-0000
+    - text: "{{< iconify academicons:hal >}} HAL"
+      href: https://hal.science/search/index/?q=florian+bonnet
+---
+
+## About
+
+I am a researcher (*chargé de recherches*) at the [Institut national d'études démographiques (INED)](https://www.ined.fr), based in Aubervilliers, France. As an economist and demographer, my research focuses on **mortality, spatial inequalities, and the long-run dynamics of demographic divergence**.
+
+I am co-director of the [French Regional Database](https://frdb.site.ined.fr) and an elected member of INED's board of directors.
+
+## Currently working on
+
+- **Deaths of despair in Europe** — manuscript under review at *The Lancet Public Health* (with Pavel Grigoriev, BiB Wiesbaden)
+- **ANR SPLIT** — Spatial Polarization of Longevity in Post-Pandemic Europe (PI, with German PI Pavel Grigoriev)
+- **ERC Redim, ANR Worth-IT, ANR Socface, COST "The Great Leap"** — collaborative projects on regional demographic dynamics
+- **Decoding 1950–1967 French mortality data** — historical VAX F_floating binary files from Vallin & Meslé (INED, 1988)
+
+## Selected publications
+
+::: {.callout-note appearance="simple" icon=false}
+*Featured work — see the [full publication list](research/publications.qmd) for all outputs.*
+:::
+
+- **Bonnet, F.** et al. (2026). [Title of Nature Communications paper](#). *Nature Communications*.
+- **Bonnet, F.** et al. (2025). Paris arrondissement mortality 1890–1949. *Population and Development Review*.
+- **Bonnet, F.** et al. (2026). Spatial concentration of high incomes. *Journal of Economic Geography*.
+
+## Recent activity
+
+- 🗞️ Coverage in *Le Monde*, *FAZ*, *Die Welt*, *France Culture* — see [Media](research/media.qmd)
+- 🎤 Seminar on extreme longevity in France, 9 April 2026
+- 📄 Submission to *Demography* (Paris life tables, with G. Camarda & C. Torres)
+---

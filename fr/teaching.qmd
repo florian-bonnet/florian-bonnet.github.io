@@ -1,0 +1,24 @@
+---
+title: "Enseignement"
+---
+
+## Enseignements actuels
+
+### Classes préparatoires
+**Économie-droit, 2e année** — [ENC Blomet](https://www.encblomet.fr), Paris
+
+### Enseignement universitaire
+- **L2** — Toulouse School of Economics
+- **M2** — Paris School of Economics
+- **M2** — Université d'Angers
+
+## Approche pédagogique
+
+Mes supports sont construits en LaTeX Beamer, avec une forte préférence pour le contenu visuel plutôt que les listes à puces. Les matériels sont généralement disponibles sur demande — n'hésitez pas à me [contacter par email](about/contact.qmd).
+
+## Encadrement
+
+*À compléter.*
+---
+
+## 

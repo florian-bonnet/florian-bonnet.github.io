@@ -1,21 +1,60 @@
 project:
   type: website
+  output-dir: _site
 
 website:
-  title: "florianbonnet-website"
+  title: "Florian Bonnet"
+  description: "Chargé de recherches at INED. Mortality, spatial inequalities, demography."
+  site-url: "https://florianbonnet.github.io"
+  
+  # Barre de navigation principale
   navbar:
+    background: primary
+    search: true
+    right:
+      - href: en/index.qmd
+        text: "EN"
+      - href: fr/index.qmd
+        text: "FR"
     left:
-      - href: index.qmd
+      - href: en/index.qmd
         text: Home
-      - about.qmd
+      - text: Research
+        menu:
+          - href: en/research/themes.qmd
+            text: Themes
+          - href: en/research/publications.qmd
+            text: Publications
+          - href: en/research/tools.qmd
+            text: Tools & Data
+          - href: en/research/media.qmd
+            text: Media
+      - href: en/teaching.qmd
+        text: Teaching
+      - text: About
+        menu:
+          - href: en/about/cv.qmd
+            text: CV
+          - href: en/about/contact.qmd
+            text: Contact
+  
+  # Pied de page
+  page-footer:
+    left: "© 2026 Florian Bonnet"
+    right: 
+      - icon: github
+        href: https://github.com/florianbonnet
+      - icon: envelope
+        href: mailto:ton.email@example.com
 
 format:
   html:
-    theme:
+    theme: 
       - cosmo
-      - brand
-    css: styles.css
+      - styles.scss
     toc: true
-
-editor: visual
-
+    toc-location: right
+    code-copy: true
+    smooth-scroll: true
+    link-external-newwindow: true
+    fontsize: 1rem
