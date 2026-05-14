@@ -1,6 +1,53 @@
 ---
-title: "Media"
+title: "Media coverage"
 ---
 
-*Page coming soon.*
----
+## 2026
+
+[On spatial concentration of high earners in France](./publications/2026-dalbis-jeg.qmd)
+
+-   [Le Monde](https://www.lemonde.fr/idees/article/2026/04/13/la-nouvelle-geographie-des-hauts-revenus-est-une-geographie-du-service-et-de-la-mondialisation_6679670_3232.html) ; [The Conversation](https://doi.org/10.64628/AAK.5u7yk6rt5) ; [Sud-Ouest](https://www.sudouest.fr/ile-de-france/paris/ou-vivent-les-plus-riches-ce-que-la-geographie-des-hauts-revenus-dit-des-fractures-francaises-27365725.php) ; [Ouest-France](https://www.ouest-france.fr/leditiondusoir/2026-01-13/habitez-vous-un-territoire-de-riches-voici-ou-se-concentrent-les-plus-hauts-revenus-en-france-35e1c215-c852-4edf-9203-f5c4c06757c3)
+
+[On longevity divergence in Europe](./publications/2026-alliger-natcomm.qmd)
+
+-   [The Conversation (FR)](https://doi.org/10.64628/AAK.u7y7qvmfv) or [The Conversation (EN)](https://doi.org/10.64628/AAK.jgg6hxkxq) ; [Le Monde](https://www.lemonde.fr/planete/article/2026/02/02/esperance-de-vie-une-europe-a-deux-vitesses-se-dessine-avec-des-ecarts-de-plusieurs-annees-selon-les-regions_6665035_3244.html) ; [Le Point](https://www.lepoint.fr/eureka/ou-vit-on-le-plus-vieux-en-europe-7WQYJH7DZFCVJFLSPJ52CRZ7V4/) ; [France Culture, Les matins du samedi](https://www.radiofrance.fr/franceculture/podcasts/la-transition-de-la-semaine/les-europeens-inegaux-face-a-l-esperance-de-vie-2763035) ; [France Culture, Avec sciences](https://www.radiofrance.fr/franceculture/podcasts/avec-sciences/pourquoi-l-esperance-de-vie-ralentit-elle-en-europe-6740090) ; [France Info TV](https://www.franceinfo.fr/sante/esperance-de-vie-on-est-rattrape-par-la-patrouille-autour-de-55-ans-on-paye-des-comportements-qu-on-a-pas-su-pas-pu-avoir-souligne-serge-guerin-sociologue-specialiste-du-vieillissement_7772036.html) ; [Science et Vie](https://www.science-et-vie.com/corps-et-sante/ou-vit-on-le-plus-vieux-ce-que-la-geographie-dit-dune-europe-de-plus-en-plus-fragmentee-225481.html) ; [RTBF](https://www.rtbf.be/webview/android/article/11675997) ; [RTS](https://www.rts.ch/audio-podcast/2026/audio/une-europe-a-2-vitesses-interview-de-florian-bonnet-demographe-ep-4-serie-sur-l-esperance-de-vie-29208360.html) ; [Ouest France](https://www.ouest-france.fr/leditiondusoir/2026-03-03/ou-vit-on-le-plus-vieux-en-europe-voici-les-regions-ou-l-esperance-de-vie-progresse-et-celles-ou-elle-decroche-004caa84-70d7-4666-872b-47e1004c6e8e) ; [La Montagne](https://www.lamontagne.fr/paris-75000/actualites/ou-vit-on-le-plus-vieux-ce-que-la-geographie-dit-dune-europe-de-plus-en-plus-fragmentee_14821653/) ; [EU Radio](https://euradio.fr/emission/2Xq4-linterview-europeenne/0jj6-esperance-de-vie-une-europe-de-plus-en-plus-fragmentee)
+
+## 2025
+
+[On Paris mortality patterns from 1890 to 1949](./publications/2025-torres-padr.qmd)
+
+-   [The Conversation](https://doi.org/10.64628/AAK.fxtjkckf7) ; [N-IUSSP](https://www.niussp.org/health-and-mortality/paris-from-capital-of-early-death-during-the-belle-epoque-1871-1914-to-a-longevity-champion-today/) ; [20 minutes](https://www.20minutes.fr/paris/4191988-20251221-paris-passee-capitale-vie-courte-championne-longevite) ; [Science et Vie](https://www.science-et-vie.com/corps-et-sante/comment-paris-est-passe-de-capitale-de-la-vie-breve-a-championne-de-la-longevite-221128.html)
+
+[On COVID-19 in historical perspective](./publications/2025-bonnet-padrcovid.qmd)
+
+-   [Population Europe](https://population-europe.eu/research/popdigests/how-severe-was-mortality-during-first-two-years-pandemic-looking-back-can-help) ; [The Conversation](https://doi.org/10.64628/AAK.gadmehfrk) ; [N-IUSSP](https://www.niussp.org/health-and-mortality/a-century-of-mortality-crises-in-france-and-its-regions/) ; [20 minutes](https://www.20minutes.fr/sante/4171821-20250910-covid-19-pire-catastrophe-depuis-1900-reponse-statistiques-regionales) ; [Science et Vie](https://www.science-et-vie.com/corps-et-sante/le-covid-19-est-il-le-pire-fleau-depuis-1900-ce-que-revelent-les-archives-de-la-statistique-regionale-francaise-212014.html)
+
+## 2024
+
+[On longevity convergence in Europe](./publications/2024-sauerberg-padr.qmd)
+
+-   [N-IUSSP](https://www.niussp.org/health-and-mortality/stagnating-mortality-convergence-across-european-regions-in-recent-years/)
+
+[On COVID-19 excess mortality in 569 European regions](./publications/2024-bonnet-natcomm.qmd)
+
+-   [Die Welt](https://www.welt.de/gesundheit/article252773558/Corona-Deutliche-regionale-Unterschiede-bei-Uebersterblichkeit-waehrend-Pandemie.html) ; [Frankfurter Allgemeine Zeitung](https://www.faz.net/aktuell/gesellschaft/gesundheit/corona-pandemie-fast-jeder-verlor-einen-verwandten-19890537.html) ; [The Conversation (FR)](https://theconversation.com/surmortalite-due-au-covid-19-de-tres-forts-contrastes-regionaux-en-europe-238441) or [The Conversation (EN)](https://theconversation.com/covid-19-death-tolls-in-europe-highlight-stark-regional-differences-in-2020-and-2021-246374) ; [N-IUSSP](https://www.niussp.org/health-and-mortality/europes-covid-19-death-toll-in-2020-and-2021-stark-regional-differences/) ; [EU.radio](https://euradio.fr/emission/9EO4-linvitee-de-la-redaction/WdDG-florian-bonnet-surmortalite-due-au-covid-19-de-tres-forts-contrastes-regionaux-en-europe) ; [médecine/sciences](https://doi.org/10.1051/medsci/2025001)
+
+## 2023
+
+[On occupational class and time spent in retirement in France](./publications/2023-bonnet-popsoc.qmd)
+
+-   [The Conversation](https://theconversation.com/les-ouvriers-vivent-moins-longtemps-que-les-cadres-combien-de-temps-passent-ils-vraiment-a-la-retraite-213813) ; [Slate](https://www.slate.fr/story/254055/ouvriers-cadres-temps-passe-retraite-different-esperance-vie-seniors-personnes-agees-csp-travail-emploi) ; [Sud-Ouest](https://www.sudouest.fr/societe/les-ouvriers-vivent-moins-longtemps-que-les-cadres-combien-de-temps-passent-ils-vraiment-a-la-retraite-16833303.php) ; [Atlantico](https://atlantico.fr/article/decryptage/qui-vit-combien-d-annees-a-la-retraite-l-ined-a-de-nouvelles-donnees-precises-etude-chiffres-age-64-ans-esperance-de-vie-inactivite-depart-metiers-chomage-florian-bonnet)
+
+## Earlier
+
+[On reversal of income gradient in mortality in France](./publications/2023-bonnet-plosone.qmd)
+
+-   [Blog AFSE](https://www.blog-afse.fr/billet/de-la-penalite-urbaine-lavantage-urbain-un-siecle-devolution-des-inegalites-geographiques-de)
+
+[On 100 years of regional income inequality in France](./publications/2021-bonnet-estat.qmd)
+
+-   [Le Monde](https://www.lemonde.fr/economie/article/2020/03/05/en-france-les-inegalites-interdepartementales-de-revenus-n-ont-jamais-ete-aussi-faibles_6031893_3234.html) ; [Banque de France](https://www.banque-france.fr/fr/publications-et-statistiques/publications/inegalites-de-revenu-entre-departements-francais-un-recul-seculaire)
+
+[On 200 years of spatial mortality inequality in France](./publications/2020-bonnet-padr.qmd)
+
+-   [N-IUSSP](https://www.niussp.org/health-and-mortality/two-centuries-of-change-in-the-spatial-inequality-of-mortality-in-francedeux-siecles-devolution-des-inegalites-spatiales-de-mortalite-en-france/)

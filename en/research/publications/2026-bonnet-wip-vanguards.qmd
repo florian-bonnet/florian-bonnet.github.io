@@ -1,0 +1,12 @@
+---
+title: "Vanguards and laggards in a healthy ageing society: Occupational disparities in life and disability-free life expectancy in France, 2011–2019"
+author: "with E. Cambois and C.-G. Camarda"
+date: "2026-01-01"
+venue: ""
+status: "Work in progress"
+categories: [work-in-progress, mortality-france]
+---
+
+[**Work in progress**]{.status-tag} · 2026
+
+> *Trends in disability and disability-free life expectancy by occupational class. The female highly skilled OC continued to gain LE at older ages but also experienced an expansion of DLE. These findings suggest no shared model of transition to longer life across social groups.*

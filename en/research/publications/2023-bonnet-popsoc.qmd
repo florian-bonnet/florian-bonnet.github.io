@@ -1,0 +1,14 @@
+---
+title: "Employees in higher-level occupations outlive manual workers. How long do they live in retirement or (in) activity?"
+author: "with C.-G. Camarda, E. Cambois and O. Merville"
+date: "2023-09-01"
+venue: "Population & Societies"
+status: "Published"
+categories: [published, mortality-france]
+---
+
+[***Population & Societies***]{.journal} · 2023
+
+\[[Article](https://doi.org/10.3917/popsoc.611.0001)\] · \[[Media coverage](../media.qmd)\]
+
+> *Which occupational categories spend the most years in retirement? We measure life expectancy across occupational categories at different ages, particularly around retirement ages.*

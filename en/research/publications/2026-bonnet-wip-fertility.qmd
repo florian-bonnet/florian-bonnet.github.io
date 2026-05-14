@@ -1,0 +1,12 @@
+---
+title: "A Unified Innovation–Diffusion Theory of Fertility Transitions: New Insights from French Regional Fertility, 1853-2023"
+author: "with S. Florian"
+date: "2026-03-01"
+venue: ""
+status: "Work in progress"
+categories: [work-in-progress, mortality-france]
+---
+
+[**Work in progress**]{.status-tag} · 2026
+
+## \> *We propose a theoretical framework unifying the narratives of fertility trends into a single model with two successive innovation–diffusion processes: the spread of lower fertility (quantum) and delayed fertility (tempo). Tested on French regional data 1855–2023.*

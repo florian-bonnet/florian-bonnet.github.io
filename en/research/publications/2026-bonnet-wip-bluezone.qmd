@@ -1,0 +1,12 @@
+---
+title: "Born in the right place. The geography of extreme longevity in France"
+author: "with M. Poulain"
+date: "2026-04-01"
+venue: ""
+status: "Work in progress"
+categories: [work-in-progress, mortality-france]
+---
+
+[**Work in progress**]{.status-tag} · 2026
+
+> *Using French civil registration records and the extinct cohort method, we compute sex-specific Extreme Longevity Index across 87 regions and 1,681 functional territorial units. Spatial cluster analysis reveals twelve longevity zones with robust boundaries. The Paris Area and the Low Loire Valley exhibit contrasting mortality patterns, identifying the Low Loire Valley as the most compelling candidate for a genuine blue zone in metropolitan France.*

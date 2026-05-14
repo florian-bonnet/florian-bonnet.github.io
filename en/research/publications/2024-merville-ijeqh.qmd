@@ -1,0 +1,14 @@
+---
+title: "Unpacking occupational and sex divides to understand the moderate progress in life expectancy in recent years (France, 2010's)"
+author: "with O. Merville, C.-G. Camarda and E. Cambois"
+date: "2024-09-01"
+venue: "International Journal for Equity in Health"
+status: "Published"
+categories: [published, mortality-france]
+---
+
+[***International Journal for Equity in Health***]{.journal} · 2024
+
+\[[Article](https://link.springer.com/article/10.1186/s12939-024-02310-4)\] · \[[Code & data (OSF)](https://osf.io/jyd58/)\]
+
+## \> *The growth in life expectancy slows down recently in several high-income countries. We utilize French census mortality follow-up data and apply P-spline models to estimate life expectancy across five occupational classes. Overall, the limited LE progress in France results from LE stalling in the middle of the gender-OC gradient, though LE increases at both ends.*

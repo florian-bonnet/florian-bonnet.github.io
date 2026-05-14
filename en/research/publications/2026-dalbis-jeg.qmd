@@ -1,0 +1,14 @@
+---
+title: "Structural Change and Spatial Concentration of High Earners: Evidence from French Regions since 1960"
+author: "with H. d'Albis and A. Sotura"
+date: "2026-01-01"
+venue: "Journal of Economic Geography"
+status: "Accepted"
+categories: [published, income-distribution]
+---
+
+[***Journal of Economic Geography***]{.journal} · Accepted
+
+\[[Working Paper](https://drive.google.com/file/d/1rgn5Rf4Eb_GaWoT8MnpNouMwsupganI-/view?usp=sharing)\] · \[[Media coverage](../media.qmd)\]
+
+> *This paper analyzes the shares of high-income earners within local populations, leveraging consistent annual income distributions for 90 French regions since 1960. The spatial dispersion of these shares has followed a U-shaped trajectory: a high concentration level in the 1960s, a decline in subsequent decades, and a marked increase since the early 2000s. We demonstrate that shifts in regional productive structures explain this U-shaped trajectory.*

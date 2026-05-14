@@ -1,0 +1,14 @@
+---
+title: "Inequalities in Life Expectancy and the Global Welfare Convergence"
+author: "with H. d'Albis"
+date: "2018-04-01"
+venue: "Economics Letters"
+status: "Published"
+categories: [published, mortality-europe, income-distribution]
+---
+
+[***Economics Letters***]{.journal} · 2018
+
+\[[Article](https://www.sciencedirect.com/science/article/pii/S0165176518301265)\]
+
+> *Becker et al. (2005) maintain that including life expectancy gains in a welfare indicator result in a reduction of inequality between 1960 and 2000 twice as great as when measured by per capita income. We discuss their methodology and show it determines the convergence result. We use an alternative methodology, based on Fleurbaey and Gaulier (2009), which monetizes differences in life expectancy between countries at each date rather than life expectancy gains. We show that including life expectancy has no effect on the evolution of world inequality.*

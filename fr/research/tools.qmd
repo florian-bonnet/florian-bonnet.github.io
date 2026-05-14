@@ -1,6 +1,16 @@
 ---
-title: "Outils et données"
+title: "Outils & Données"
+description: "Applications Shiny, jeux de données et matériel de réplication"
 ---
 
-*Page coming soon.*
----
+::: {.callout-note appearance="simple"}
+→ **[Voir la page complète (EN)](../../en/research/tools.qmd)**
+:::
+
+## Applications interactives
+
+Toutes mes applications Shiny accompagnent les publications correspondantes. Elles permettent d'explorer interactivement les données et résultats. Voir la [version anglaise](../../en/research/tools.qmd) pour la liste complète et les liens.
+
+## Données ouvertes
+
+Je suis **co-directeur de la [French Regional Database](https://frdata.org/)**, qui rassemble les données démographiques régionales françaises de référence sur deux siècles.

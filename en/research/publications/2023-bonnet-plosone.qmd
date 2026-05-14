@@ -1,0 +1,14 @@
+---
+title: "Mortality Inequalities in France since the 1920s: Evidence of a Reversal of the Income Gradient in Mortality"
+author: "with H. d'Albis and J. Thuilliez"
+date: "2023-04-01"
+venue: "PLoS ONE"
+status: "Published"
+categories: [published, mortality-france, income-distribution]
+---
+
+[***PLoS ONE***]{.journal} · 2023
+
+\[[Article](https://doi.org/10.1371/journal.pone.0280272)\]
+
+> *Using a unique dataset with annual lifetables and fiscal income for 90 French regions from 1922 to 2020, we reveal a systematic reversal of the income gradient in mortality that occurred around the 1970s. Inequality has however returned to a level observed at least ten years earlier because of COVID-19.*

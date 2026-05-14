@@ -1,52 +1,51 @@
 ---
 title: "Florian Bonnet"
-subtitle: "Chargé de recherches at INED"
-image: ../images/profile.jpg
+subtitle: "Chargé de recherches"
+image: ../images/Picture.png
+toc: false
 about:
   template: trestles
   image-shape: round
-  image-width: 14em
+  image-width: 10em
   links:
-    - icon: envelope
-      text: Email
-      href: mailto:ton.email@example.com
-    - icon: github
-      text: GitHub
-      href: https://github.com/florianbonnet
-    - text: "{{< iconify academicons:google-scholar >}} Scholar"
-      href: https://scholar.google.com/citations?user=YOURID
-    - text: "{{< iconify academicons:orcid >}} ORCID"
-      href: https://orcid.org/0000-0000-0000-0000
-    - text: "{{< iconify academicons:hal >}} HAL"
-      href: https://hal.science/search/index/?q=florian+bonnet
+    - text: "Scholar"
+      href: https://scholar.google.com/citations?user=6mVk71QAAAAJ&hl=en
+    - text: "ORCID"
+      href: https://orcid.org/0000-0001-6202-8955
+    - text: "Linkedin"
+      href: https://www.linkedin.com/in/florian-bonnet-53152744/
 ---
 
 ## About
 
-I am a researcher (*chargé de recherches*) at the [Institut national d'études démographiques (INED)](https://www.ined.fr), based in Aubervilliers, France. As an economist and demographer, my research focuses on **mortality, spatial inequalities, and the long-run dynamics of demographic divergence**.
+I am a researcher (*chargé de recherches*) at the [Institut national d'études démographiques (Ined)](https://www.ined.fr), based in Aubervilliers, France. 
 
-I am co-director of the [French Regional Database](https://frdb.site.ined.fr) and an elected member of INED's board of directors.
+As an economist and demographer, my research focuses mainly on **the long-run dynamics of spatial demographic and economic divergence in France and Europe**.
 
-## Currently working on
+I am co-director of the [French Regional Database](https://frdb.site.ined.fr) and currently an elected member of INED's board of directors.
 
-- **Deaths of despair in Europe** — manuscript under review at *The Lancet Public Health* (with Pavel Grigoriev, BiB Wiesbaden)
-- **ANR SPLIT** — Spatial Polarization of Longevity in Post-Pandemic Europe (PI, with German PI Pavel Grigoriev)
-- **ERC Redim, ANR Worth-IT, ANR Socface, COST "The Great Leap"** — collaborative projects on regional demographic dynamics
-- **Decoding 1950–1967 French mortality data** — historical VAX F_floating binary files from Vallin & Meslé (INED, 1988)
+## Current research projects
 
-## Selected publications
+- **Deaths of despair in Europe**: Is the increase in deaths of despair seen in the United States in recent decades also evident in specific geographical areas of Europe?
 
-::: {.callout-note appearance="simple" icon=false}
-*Featured work — see the [full publication list](research/publications.qmd) for all outputs.*
-:::
+- **Extreme longevity in France**: Did the probability of reaching the age of 100 differ significantly depending on place of birth for cohorts born in the early 20th century who have since passed away?
 
-- **Bonnet, F.** et al. (2026). [Title of Nature Communications paper](#). *Nature Communications*.
-- **Bonnet, F.** et al. (2025). Paris arrondissement mortality 1890–1949. *Population and Development Review*.
-- **Bonnet, F.** et al. (2026). Spatial concentration of high incomes. *Journal of Economic Geography*.
+- **Epidemiological transition in Paris**: How have differences in life expectancy between Parisian neighbourhoods and arrondissements evolved from the late 19th century to the present day?
+
+- **Regional income distributions in Europe**: Using tax statistics, is it possible to pinpoint individuals with the highest incomes in Western Europe at a granular level and see how this distribution has changed since 1990?
+
+## Selected recent publications
+
+- [Structural Change and Spatial Concentration of High Earners: Evidence from French Regions since 1960](./research/publications/2026-dalbis-jeg.qmd). *Journal of Economic Geography (Forthcoming)*.
+- [Potential and challenges for sustainable progress in human longevity](./research/publications/2026-alliger-natcomm.qmd). *Nature Communications (2026)*.
+- [Life and Death in a Changing City: Mortality Patterns and Inequalities in Paris, 1890–1949](./research/publications/2025-torres-padr.qmd). *Population and Development Review (2025)*.
 
 ## Recent activity
 
-- 🗞️ Coverage in *Le Monde*, *FAZ*, *Die Welt*, *France Culture* — see [Media](research/media.qmd)
-- 🎤 Seminar on extreme longevity in France, 9 April 2026
-- 📄 Submission to *Demography* (Paris life tables, with G. Camarda & C. Torres)
----
+- New article in [Le Monde](https://www.lemonde.fr/idees/article/2026/04/13/la-nouvelle-geographie-des-hauts-revenus-est-une-geographie-du-service-et-de-la-mondialisation_6679670_3232.html) about the recent economic divergence between French regions.
+
+- *New paper accepted in Population Health Metrics*: Social Inequalities in Cause-specific Premature Mortality in Rural and Urban Areas of Mainland France Using Population Attributable Fractions (PAFs): A Pre-Pandemic Analysis
+
+- *Oral presentation* during the 16th Supercentenarian International Seminar (Ined, France) about spatial disparities in the probabilities of reaching age 100 in France for cohorts born in the early 20th century.
+
+- *Oral presentation* during the Population Association of America Meeting (Saint-Louis, USA) about the different trajectories of Death of Despair mortality between European regions since 2000.

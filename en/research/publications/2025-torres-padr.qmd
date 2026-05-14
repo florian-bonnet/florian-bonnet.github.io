@@ -1,0 +1,14 @@
+---
+title: "Life and Death in a Changing City: Mortality Patterns and Inequalities in Paris, 1890–1949"
+author: "with C. Torres, L. Kesztenbaum and F. Meslé"
+date: "2025-09-01"
+venue: "Population and Development Review"
+status: "Published"
+categories: [published, mortality-france, health-crises]
+---
+
+[***Population and Development Review***]{.journal} · 2025
+
+\[[Article](https://onlinelibrary.wiley.com/share/author/WN43ISQ8YTSGVTI3U6WJ?target=10.1111/padr.70031)\] · \[[Code & data (OSF)](https://osf.io/wcyft/)\] · \[[Shiny app](https://mortalidad-pp.shinyapps.io/suppl_results_mortality_cod_paris/)\] · \[[Media coverage](../media.qmd)\]
+
+> *Over the past two centuries, European metropolises transformed from urban graveyards to healthy cocoons. We leverage a newly harmonized dataset of high-quality, cause-specific mortality records to examine the rapid increase in life expectancy in Paris during the first half of the 20th century. Infectious diseases — particularly tuberculosis and respiratory infections — accounted for 60–70% in the 25-year gain in life expectancy at age 1.*

@@ -1,6 +1,16 @@
 ---
 title: "Publications"
+description: "Publications, working papers et travaux en cours"
 ---
 
-*Page coming soon. Generated from `publications.bib`.*
----
+::: {.callout-note appearance="simple"}
+La liste des publications est principalement maintenue en anglais pour des raisons de cohérence avec les standards académiques internationaux.
+
+→ **[Voir la liste complète des publications (EN)](../../en/research/publications.qmd)**
+:::
+
+## Aperçu
+
+Mes recherches sont publiées dans des revues internationales (*Nature Communications*, *Population and Development Review*, *Demographic Research*, *Journal of Economic Geography*, *PLoS ONE*, *Population Studies*…). Tous les articles sont accompagnés de packages de réplication sur OSF lorsque possible.
+
+Pour une présentation en français des thèmes traités, voir la page [Axes de recherche](themes.qmd).

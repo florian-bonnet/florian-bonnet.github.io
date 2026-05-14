@@ -1,0 +1,14 @@
+---
+title: "Distributions of fiscal income in French regions, 1960-2018"
+author: "with A. Sotura"
+date: "2021-01-01"
+venue: ""
+status: "Working Paper, Banque de France"
+categories: [working-paper, income-distribution]
+---
+
+[**Working Paper, Banque de France**]{.status-tag} · 2021
+
+\[[Banque de France](https://publications.banque-france.fr/en/regional-income-distributions-france1960-2018)\]
+
+## \> *Homogeneous annual series on the income distribution of French metropolitan départements for the period 1960-69 and 1986-2018, based on unpublished archives of the Ministry of Finance. Methodology to estimate the number and average income of non-taxable households before 1986.*

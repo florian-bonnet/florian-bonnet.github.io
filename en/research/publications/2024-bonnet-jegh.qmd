@@ -1,0 +1,14 @@
+---
+title: "Spatial variation in excess mortality across Europe: a cross-sectional study of 561 regions in 21 countries"
+author: "with P. Grigoriev, M. Sauerberg, I. Alliger, M. Mühlichen, C.-G. Camarda"
+date: "2024-03-01"
+venue: "Journal of Epidemiology and Global Health"
+status: "Published"
+categories: [published, mortality-europe, health-crises]
+---
+
+[***Journal of Epidemiology and Global Health***]{.journal} · 2024
+
+\[[Article](https://link.springer.com/article/10.1007/s44197-024-00200-0)\] · \[[Code & data (OSF)](https://osf.io/h68wz/)\] · \[[Shiny app](https://demomort.shinyapps.io/LE_losses2020/)\]
+
+## \> *Estimating excess mortality at the subnational level in 21 European countries. We find evidence of a loss in life expectancy in 391 regions, with losses exceeding 2 years in 12 regions. Geographic clusters of high mortality were found in Northern Italy, Spain and Poland; low mortality clusters in Western France, Germany/Denmark and Norway/Sweden.*

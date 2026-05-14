@@ -1,6 +1,49 @@
 ---
 title: "Research themes"
+description: "Four interconnected lines of research at the intersection of demography, economics, and spatial analysis"
 ---
 
-*Page coming soon.*
+My research program is structured around **four complementary axes** that converge on a central question: *how do spatial and social inequalities in life and death evolve over the long run, and what drives their divergence or convergence?*
+
+## 1. Long-run spatial inequalities in mortality and fertility in France
+
+I reconstruct regional life tables and fertility patterns for 90 French departments back to 1806, building one of the longest continuous subnational demographic series in Europe. This work has produced annual lifetables by sex and year (1901–2014, extended to 1806 for select indicators), and detailed cause-of-death analyses for Paris arrondissements (1890–1949).
+
+**Key publications**: PDR 2025 (Paris mortality), PDR 2020 (spatial inequality 1806–), *Demographic Research* 2020 (computational methods).
+
+## 2. European regional mortality divergences since the Fall of the Berlin Wall
+
+In collaboration with colleagues at BiB Wiesbaden and INED, I document and explain the divergent mortality trajectories of European regions from 1992 onwards. The work has revealed the structural slowdown in life expectancy gains in Western Europe after 2005, the deeply heterogeneous regional dynamics of deaths of despair, and the asymmetric burden of the COVID-19 pandemic.
+
+**Key publications**: *Nature Communications* 2024 (COVID-19 across 569 regions), *Nature Communications* 2026 (longevity divergence), *PDR* 2024 (mortality convergence).
+
+## 3. Health crises, pandemics and climate-related mortality
+
+This axis examines the demographic impact of major health crises — both contemporary (COVID-19, recent heatwaves) and historical (1918 flu, 1956 Asian flu, 1969 Hong Kong flu, 1911 and 2003 heatwaves) — in a comparative spatial and historical perspective.
+
+**Key publications**: *PDR* 2025 (COVID-19 vs historical crises), *Demographic Research* 2022 (Hong-Kong flu), *PLoS ONE* 2024 (subnational excess mortality methods).
+
+## 4. Regional income distribution in Europe
+
+With Hippolyte d'Albis and collaborators, I reconstruct annual income distributions at the regional level across European countries (France, Italy, Switzerland, Sweden, Denmark, Finland). The work relies on digitization of fiscal archives and a unified pipeline using `gpinter` (Blanchet, Fournier & Piketty). A major output is the new *French Regional Income Database*.
+
+**Key publications**: *Journal of Economic Geography* 2026 (high-income spatial concentration), *Economics and Statistics* 2021 (100 years of regional income).
+
 ---
+
+## Current projects
+
+### ANR SPLIT (PI)
+*Spatial Polarization of Longevity in Post-Pandemic Europe*. Joint French-German project with Pavel Grigoriev (BiB Wiesbaden, German PI).
+
+### ERC Redim
+*Reorienting Demographic Imagination*. Participation as core team member.
+
+### ANR Worth-IT
+Methodological tools for analysis of subnational mortality.
+
+### ANR Socface
+Socioeconomic mortality gradients using French succession data.
+
+### COST "The Great Leap"
+European collaborative network on health and longevity transitions.

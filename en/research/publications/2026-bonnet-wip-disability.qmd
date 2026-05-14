@@ -1,0 +1,12 @@
+---
+title: "Spatial Disparities in Disability Prevalence at the District Level in Sub-Saharan African Countries"
+author: "with A. Simo-Fotso and J. Martin"
+date: "2026-02-01"
+venue: ""
+status: "Work in progress"
+categories: [work-in-progress]
+---
+
+[**Work in progress**]{.status-tag} · 2026
+
+> *Subnational disability prevalence using harmonized data from 26 countries (DHS and MICS surveys 2016–2022). The highest-burden areas cluster along the Ghana–Togo and Central African Republic–DRC borders, in southern DRC, and in parts of Madagascar.*

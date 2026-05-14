@@ -1,9 +1,12 @@
 # Quarto
 /.quarto/
 /_site/
+/site_libs/
 /_freeze/
 *_files/
 *_cache/
+*.html
+
 
 # RStudio
 .Rproj.user/

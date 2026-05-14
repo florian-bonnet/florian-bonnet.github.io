@@ -1,39 +1,93 @@
 ---
-title: "Curriculum Vitae"
+title: "Curriculum Vitae <small>(Last updated: May 2026)</small>"
 ---
 
-[{{< iconify ph file-pdf >}} **Download full CV (PDF)**](../../files/cv-bonnet.pdf){.btn .btn-primary role="button"}
+[**Download full CV (PDF)**](../../files/cv-bonnet.pdf){.btn .btn-primary role="button" target="_blank"}
 
----
+------------------------------------------------------------------------
 
 ## Current position
 
-- **2020 – present**: *Chargé de recherches*, Institut national d'études démographiques (INED), Aubervilliers / Paris
+**2020 – present**: *Chargé de recherches* (tenured researcher), Mortality, Health and Epidemiology Research Unit, Institut national d'études démographiques (Ined), Paris
+
+## Previous positions
+
+**2018 – 2020**: Assistant professor, École Normale Supérieure Paris-Saclay
+
+**2015 – 2018**: Teaching assistant, École Normale Supérieure Paris-Saclay
+
+**2014 – 2015**: Research assistant, Paris School of Economics
 
 ## Education
 
-- **2015 – 2018**: PhD, Paris School of Economics & ENS Paris-Saclay
-  - *Best thesis prize, Paris 1 Panthéon-Sorbonne*
-- **2012 – 2013**: Agrégation d'économie-gestion, *ranked 1st nationally*
+**2015 – 2018**: PhD in Economics and Demography, Paris School of Economics & ENS Paris-Saclay\
+<small>*Best PhD thesis prize in Economics, Paris 1 Panthéon-Sorbonne University*</small>
+
+**2013 – 2014**: Master (M2) "Empirical and Theoretical Economics", Paris School of Economics
+
+**2012 – 2013**: *Agrégation* in Economics and Management Science, ENS Paris-Saclay\
+<small>*National competitive examination (ranked 1st)*</small>
+
+**2010 – 2015**: French civil servant student (*élève fonctionnaire*), ENS Paris-Saclay
+
+## Publications
+
+*See [Publications](../research/publications.qmd) for the complete list of peer-reviewed articles and working papers.*
+
+## Teaching
+
+*See [Teaching](../teaching.qmd) for the complete list of current and past lectures.*
+
+## Research projects
+
+**Active**
+
+-   **ANR *Worth-IT***: research network, since 2025
+-   **COST *The Great Leap***: research network, since 2023
+-   **ERC *Redim***: research network, since 2020
+
+**Past**
+
+-   **ANR *Socface***: research network, 2020-24
+-   **The Demography of COVID-19 Deaths Database**, operational team, 2020–22
+-   **N-ACSEL project**, consulting, French Central Bank, 2021–22
 
 ## Service & affiliations
 
-- **Co-director**, [French Regional Database](https://frdb.site.ined.fr)
-- **Elected member**, INED Board of Directors (since 2023)
-- **Active participation**:
-  - ERC *Redim*
-  - ANR *Worth-IT*
-  - ANR *Socface*
-  - ANR *SPLIT* (PI)
-  - COST *The Great Leap*
-- **Reviewer** for ~20 journals including *Nature Human Behaviour*, *Demography*, *The Lancet*, *Population and Development Review*
+### Open science
 
-## Awards & distinctions
+**Co-director**, [French Regional Database](https://frdata.org/en/). Historical demographic and economic data on French regions, since 2020
 
-- Best PhD thesis prize, Paris 1 Panthéon-Sorbonne
-- Ranked 1st, Agrégation d'économie-gestion 2012–13
+### Institutional
 
-## Selected talks
+**Elected member**, Board of Directors, INED, since 2023
 
-*See [Publications](../research/publications.qmd) for paper-specific seminars.*
----
+**Selection committees**, INED (PhD students and post-docs), 2022–2025
+
+### Peer review
+
+Regular reviewer for *Nature Human Behaviour*, *The Lancet*, *Demography*, *European Economic Review*, *Population and Development Review*, *Demographic Research*, *European Journal of Epidemiology*, *PLOS One*, *Scientific Reports*, and around ten other journals in demography, public health, and population studies.
+
+## Selected recent talks
+
+**2026**: Population Association of America, Saint-Louis (MO)
+
+**2026**: 16th Supercentenarian International Seminar, Paris
+
+**2025**: 7th Human Mortality Database Symposium, Paris
+
+**2025**: European Society of Historical Demography, Bologna
+
+**2025**: Population Association of America, Washington DC
+
+**2024**: European Population Conference, Edinburgh
+
+**2024**: Epidemics Past and Present, Barcelona
+
+*See the [full CV](../../files/cv-bonnet.pdf) for the complete list of conference contributions.*
+
+## Skills
+
+**Programming**: R, LaTeX
+
+**Languages**: French (native), English (fluent), Italian (basic)

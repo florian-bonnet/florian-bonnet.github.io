@@ -1,0 +1,14 @@
+---
+title: "Does prosperity pay? Unraveling the relationship between economic performance and life expectancy across a large number of European regions, 2008-2019"
+author: "with M. Sauerberg, L. A. Cilek, M. Mühlichen, I. Alliger, C.-G. Camarda"
+date: "2024-06-01"
+venue: ""
+status: "Working paper"
+categories: [working-paper, mortality-europe, income-distribution]
+---
+
+[**Working paper**]{.status-tag} · 2024
+
+\[[medRxiv preprint](https://www.medrxiv.org/content/10.1101/2024.06.11.24308750v1)\]
+
+> *We build Preston curves from regression models using regional data for 21 European countries divided into 506 regions. There is indeed a positive association between GDP per capita and life expectancy, with an upward shift in the curve over time. Yet the relationship differs between geographical areas.*

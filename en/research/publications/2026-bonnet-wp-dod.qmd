@@ -1,0 +1,12 @@
+---
+title: "Divergent trajectories of the Deaths of Despair Burden across Subnational Regions in Europe"
+author: "with I. Alliger, C.-G. Camarda, S. Klüsener, F. Meslé, M. Mühlichen, E. Perdrix, P. Grigoriev"
+date: "2026-04-01"
+venue: ""
+status: "Under review at The Lancet Public Health"
+categories: [working-paper, mortality-europe, health-crises]
+---
+
+[**Under review at *The Lancet Public Health***]{.status-tag} · 2026
+
+> *First comprehensive subnational analysis of deaths of despair across Europe, covering 170 regions from 23 countries. Three contiguous transnational clusters of stagnating or rising mortality emerged in North-Western and Eastern Europe, as well as Sweden. A clear north–south gradient is evident, with levels in Scotland, Lithuania, and parts of Poland exceeding those observed in the US.*

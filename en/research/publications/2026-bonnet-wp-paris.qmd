@@ -1,0 +1,12 @@
+---
+title: "Dynamics of spatial and socioeconomic inequalities in longevity within a global city: Paris, 1881–2019"
+author: "with C.-G. Camarda and C. Torres"
+date: "2026-01-01"
+venue: ""
+status: "Working paper"
+categories: [working-paper, mortality-france]
+---
+
+[**Working paper**]{.status-tag} · 2026
+
+> *We reconstruct continuous, sex-specific life tables for Paris and its 20 districts over 1881–2019. By the late 19th century, life expectancy at birth already exceeded the national average in several parts of the city. The five most affluent districts enjoyed life expectancy 11–12 years above that of the five least affluent. Within-city inequalities narrowed over the first half of the 20th century, reaching a historical minimum, but have widened again since the 1970s — by 2019, the difference between the most and least advantaged districts reached five years among males.*

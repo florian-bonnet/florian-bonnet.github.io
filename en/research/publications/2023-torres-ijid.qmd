@@ -1,0 +1,14 @@
+---
+title: "Identifying age- and sex-specific COVID-19 mortality trends over time in six countries"
+author: "with C. Torres, J. García et al."
+date: "2023-01-01"
+venue: "International Journal of Infectious Diseases"
+status: "Published"
+categories: [published, health-crises]
+---
+
+[***International Journal of Infectious Diseases***]{.journal} · 2023
+
+\[[Article](https://doi.org/10.1016/j.ijid.2022.12.004)\]
+
+> *We focus on five European countries and the United States. Periods of stabilization were identified during summer (especially in 2020) among European countries, but not in the United States. There is seasonality in COVID-19 mortality, with higher rates during winter.*

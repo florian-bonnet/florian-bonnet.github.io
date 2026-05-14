@@ -4,19 +4,102 @@ title: "Teaching"
 
 ## Current teaching
 
-### Classes préparatoires
-**Économie-droit, 2e année** — [ENC Blomet](https://www.encblomet.fr), Paris
+**Toulouse School of Economics**: *Empirical Demography*. L2, 15h/year, since 2024
 
-### University teaching
-- **L2** — Toulouse School of Economics
-- **M2** — Paris School of Economics
-- **M2** — Université d'Angers
+**Paris School of Economics**: *Population Policies*. M2, 6h/year, since 2023
 
-## Approach to teaching
+**Université d'Angers**: *Silver Economy Workshop*. M1, 6h/year, since 2022
 
-My slides are built in LaTeX Beamer with a strong preference for visual content over bullet points. Materials are typically available upon request — please reach out by [email](about/contact.qmd).
+## Past teaching
 
-## Past supervision
+### Economics, preparation for the *Agrégation* (M2)
 
-*To be populated.*
----
+**ENS Paris-Saclay**, 2018–2020
+
+Lead instructor for the economics track of the *Agrégation d'économie-gestion* preparation. Weekly 3-hour lectures (31 sessions per year) combining theoretical content and contemporary case studies, complemented by 5 written exams (5h essays) and 3 oral exams (1h presentations). Students conducted a continuous press review throughout the year.
+
+<details>
+
+<summary>Course syllabus (14 chapters)</summary>
+
+I personally taught 13 of the 14 chapters.
+
+-   Chapter 1 — Classical microeconomic theory
+-   Chapter 2 — Challenges to classical microeconomic theory
+-   Chapter 3 — Consumption, saving, investment
+-   Chapter 4 — International trade
+-   Chapter 5 — International monetary and financial systems *(by [Samuel Ligonnière](https://samuelligonniere.com/))*
+-   Chapter 6 — Growth and development
+-   Chapter 7 — Effectiveness and efficiency of the State and institutions
+-   Chapter 8 — The European Union
+-   Chapter 9 — Short-term economic policies
+-   Chapter 10 — Employment and unemployment
+-   Chapter 11 — Competition policy
+-   Chapter 12 — Competitiveness policies
+-   Chapter 13 — Social protection and demography
+-   Chapter 14 — Taxation, social justice, and inequalities
+
+**Methodology sessions**: written and oral exam techniques in economics
+
+**Invited lectures**: environmental economics, economics of education, risk, insurance and asymmetric information
+
+</details>
+
+### Management control, preparation for the *Agrégation* (M2)
+
+**ENS Paris-Saclay**, 2015–2018
+
+Part of a wider preparation track covering accounting, corporate finance, and management control. Management control was delivered through 12 three-hour lectures per year.
+
+<details>
+
+<summary>Course syllabus (12 chapters)</summary>
+
+-   Introduction — Stakes of management control
+-   Chapter 1-A — Full costing: the cost center method
+-   Chapter 1-B — Full costing: activity-based costing
+-   Chapter 2 — Partial costing
+-   Chapter 3 — Procurement management
+-   Chapter 4 — Sales forecasting techniques
+-   Chapter 5 — Budgeting and investment decisions
+-   Chapter 6 — Production budget
+-   Chapter 7 — Human resources management
+-   Chapter 8 — Variance analysis
+-   Chapter 9 — Target costing
+-   Chapter 10 — Responsibility centers and internal transfer pricing
+-   Chapter 11 — Project management
+-   Chapter 12 — Dashboards and reporting
+
+</details>
+
+### Other teaching activities
+
+<details>
+
+<summary>List of lectures</summary>
+
+-   **University of Strasbourg**: M1 *Démographie et économie*. Growth and demography (2021, 3h)
+-   **ENS Paris-Saclay**: L3 *Historical economics and demography* (2020, 20h).
+-   **ENS Paris-Saclay**: Entrance examination jury for Social Sciences Department (2019–2021).
+-   **ENS Paris-Saclay**: *Agrégation* in social sciences. Labour market inequalities and discrimination (2018, 15h)
+-   **ENS Paris-Saclay**: Oral examiner, *Agrégation*. Preparation in economics and management (2013–2015)
+-   **Paris 1 Panthéon-Sorbonne**: L1 Economics. Tutored projects on inequalities (2014, 45h)
+
+</details>
+
+
+## Textbook authorship
+
+***DSCG 3: Management et contrôle de gestion***, **Dunod (2017)**
+
+<details>
+
+<summary>Co-authorship and syllabus</summary>
+
+Co-authored with S. Sépari, Morgane le Breton, and Pascal Fabre. Responsible for three chapters:
+
+-   Chapter 3 — Organisational structure and management control
+-   Chapter 5 — Strategic diagnosis and management control
+-   Chapter 6 — Strategy implementation and management control
+
+</details>

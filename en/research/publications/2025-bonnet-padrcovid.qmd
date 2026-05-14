@@ -1,0 +1,14 @@
+---
+title: "Contextualizing the Global Burden of COVID-19 Pandemic: A Historical and Geographical Exploration of Excess Mortality in France, 1901-2021"
+author: "with C.-G. Camarda"
+date: "2025-06-01"
+venue: "Population and Development Review"
+status: "Published"
+categories: [published, mortality-france, health-crises]
+---
+
+[***Population and Development Review***]{.journal} · 2025
+
+\[[Article](https://doi.org/10.1111/padr.70007)\] · \[[Code & data (OSF)](https://osf.io/q37es/)\] · \[[Media coverage](../media.qmd)\]
+
+> *We compare the COVID-19 burden in 90 French regions with that of the 1911 and 2003 heatwaves and the Spanish and Hong Kong flu pandemics. The COVID-19 burden was, on average, 90% lower than the Spanish Flu and 75% lower than the 1911 heatwave, but four times higher than the 2003 heatwave.*

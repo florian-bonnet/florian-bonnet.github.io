@@ -1,0 +1,14 @@
+---
+title: "Influenza Mortality in French Regions after the Hong-Kong Flu Pandemic"
+author: "with H. d'Albis and J. Thuilliez"
+date: "2022-09-01"
+venue: "Demographic Research"
+status: "Published"
+categories: [published, mortality-france, health-crises]
+---
+
+[***Demographic Research***]{.journal} · 2022
+
+\[[Article](https://doi.org/10.4054/DemRes.2022.47.19)\]
+
+> *Using a new database on influenza mortality since 1950 at the subnational level, we identify the Hong Kong flu as a structural break. After the break, geographical differences are less explained by regional characteristics such as income, density, or aging ratio.*

@@ -1,0 +1,14 @@
+---
+title: "The demography of COVID-19 deaths database, a gateway to well-documented international data"
+author: "with A. Caporali et al."
+date: "2022-03-01"
+venue: "Scientific Data"
+status: "Published"
+categories: [published, health-crises]
+---
+
+[***Scientific Data***]{.journal} · 2022
+
+\[[Article](https://doi.org/10.1038/s41597-022-01191-y)\]
+
+> *Open-access database providing COVID-19 death counts along with documentation about data sources, quality and coverage. Daily cumulative death counts broken down by sex, age, place and date of occurrence, for 21 countries in Europe and beyond.*

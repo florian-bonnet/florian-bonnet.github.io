@@ -1,0 +1,14 @@
+---
+title: "Estimating Subnational Excess Mortality in Times of Pandemic. An application to French départements in 2020"
+author: "with C.-G. Camarda"
+date: "2024-01-01"
+venue: "PLoS ONE"
+status: "Published"
+categories: [published, mortality-france, health-crises]
+---
+
+[***PLoS ONE***]{.journal} · 2024
+
+\[[Article](https://doi.org/10.1371/journal.pone.0293752)\] · \[[Replication kit](https://osf.io/zt2c8/)\]
+
+> *We address two methodological challenges in computing subnational excess mortality: appropriate mortality projection models and incorporating uncertainty from small populations. Illustration with French départements (NUTS 3, 95 units) for 2020.*

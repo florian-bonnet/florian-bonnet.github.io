@@ -1,0 +1,12 @@
+---
+title: "Understanding geographic disparities in mortality overtime in France, 1975-2019"
+author: "with A. Lleras-Muney, D. Yue, J. Thuilliez"
+date: "2026-02-01"
+venue: ""
+status: "R&R in Demography"
+categories: [working-paper, mortality-france]
+---
+
+[**R&R in *Demography***]{.status-tag} · 2026
+
+> *We compute the first annual full lifetables by place of birth for 90 French regions and compare them with lifetables by place of residence. Geographic disparities by place of birth have continuously declined, but measured by place of residence they have risen since the 1990s. The French geographical income gradient was negative and became positive in the 1990s when measured by place of residence; when measured by place of birth, it has never been positive.*

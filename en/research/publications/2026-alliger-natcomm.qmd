@@ -1,0 +1,14 @@
+---
+title: "Potential and challenges for sustainable progress in human longevity. Empirical evidence from subnational mortality trends in Europe"
+author: "with I. Alliger, C.-G. Camarda, S. Klüsener, F. Meslé, M. Mühlichen, J. Thuilliez, P. Grigoriev"
+date: "2026-02-01"
+venue: "Nature Communications"
+status: "Published"
+categories: [published, mortality-europe]
+---
+
+[***Nature Communications***]{.journal} · 2026
+
+\[[Article](https://www.nature.com/articles/s41467-026-68828-z)\] · \[[Code & data (OSF)](https://osf.io/3dhmz/)\] · \[[Shiny app](https://histdemo.shinyapps.io/ReLoG_Europe/)\] · \[[Media coverage](../media.qmd)\]
+
+> *Decelerating gains in life expectancy in high-income countries have raised concerns about the future of human longevity. We scrutinize subnational mortality trends (N=450) in Western Europe during the pre-pandemic period. Between 1992 and 2005, e0 gains were substantial and widespread, with the fastest improvements in laggard regions. Between 2005 and 2019, however, e0 gains in these regions decelerated notably. The observed deceleration is strongly associated with mortality of the population aged 55–74.*

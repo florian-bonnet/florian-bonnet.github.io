@@ -1,0 +1,17 @@
+---
+title: "Computations of French Lifetables by Département"
+author: ""
+date: "2020-04-01"
+venue: "Demographic Research"
+status: "Published"
+categories: [published, mortality-france]
+---
+
+[***Demographic Research***]{.journal} · 2020
+
+\[[Article](https://www.demographic-research.org/articles/volume/42/26)\] · \[[Data (FRDB)](https://frdata.org/en/french-human-mortality-database/)\]
+
+> *Background: Debates concerning the French territorial divide are deep in France. However, there is little historical data on French demography at the local level for the 20th century available to study these territorial disparities.
+Objective: The main objective is to present a new demographic database built at the departmental level for the 20th century, as well as the methods used to build this database.
+Methods: The database was constructed by digitizing a large part of the raw data available in the French archives and by using new statistical sources for military deaths and deportees during the two World Wars. The methods used are both the methodological protocol of the Human Mortality Database and a set of methods which take into account the specificities of the French departments.
+Contribution: With this database, the French departmental lifetables by sex and year including military deaths and deaths in deportation will be available, as well as the departmental populations by age, sex and year between 1901 and 2014.*

@@ -1,0 +1,14 @@
+---
+title: "Mortality convergence in Europe? Spatial differences in life expectancy gains between 1995 and 2019"
+author: "with M. Sauerberg, C.-G. Camarda and P. Grigoriev"
+date: "2024-06-01"
+venue: "Population and Development Review"
+status: "Published"
+categories: [published, mortality-europe]
+---
+
+[***Population and Development Review***]{.journal} · 2024
+
+\[[Article](https://onlinelibrary.wiley.com/doi/10.1111/padr.12657)\]
+
+> *Using annual e0 estimates for 420 regions in 16 EU countries from 1995 to 2019, we examined whether regions with initially high mortality levels caught up with low-mortality regions. Mortality variation has generally decreased over the period, but in more recent years some advantaged regions realized further gains while improvements slowed for more disadvantaged regions.*

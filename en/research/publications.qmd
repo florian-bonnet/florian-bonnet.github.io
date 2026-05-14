@@ -1,6 +1,32 @@
 ---
 title: "Publications"
+description: "Peer-reviewed publications, working papers and work in progress"
+listing:
+  - id: pubs-listing
+    contents: publications
+    type: default
+    fields: [title, author, venue, date, status, categories]
+    field-display-names:
+      venue: "Journal"
+      status: "Status"
+      date: "Year"
+    field-types:
+      date: "date"
+    date-format: "YYYY"
+    sort:
+      - "date desc"
+      - "title"
+    categories: true
+    sort-ui: [date, title]
+    filter-ui: [title, author, venue, status, categories]
+    feed: false
+    page-size: 100
+toc: false
 ---
 
-*Page coming soon. Generated from `publications.bib`.*
----
+::: {.callout-tip appearance="simple"}
+Use the **search box** to filter by title, author or journal. Click any **tag** to narrow by theme. Use the **sort menu** to change order.
+:::
+
+::: {#pubs-listing}
+:::

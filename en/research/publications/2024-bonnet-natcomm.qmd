@@ -1,0 +1,14 @@
+---
+title: "Spatial Disparities in the Mortality Burden of the Covid-19 Pandemic across 569 European Regions (2020-2021)"
+author: "with P. Grigoriev, M. Sauerberg, I. Alliger, M. Mühlichen, C.-G. Camarda"
+date: "2024-05-15"
+venue: "Nature Communications"
+status: "Published"
+categories: [published, mortality-europe, health-crises]
+---
+
+**[*Nature Communications*]{.journal}** · 2024
+
+[[Article](https://www.nature.com/articles/s41467-024-48689-0)] · [[Code & data (OSF)](https://osf.io/fwtsa/)] · [[Shiny app](https://histdemo.shinyapps.io/covid_mortality_in_2020_and_2021/)] · [[Media coverage](../media.qmd)]
+
+> *Detailed analysis of the global mortality burden of the COVID-19 pandemic across 569 regions in 25 European countries. We find notable losses in 362 regions in 2020 (440 regions in 2021). A clear East-West gradient appeared in 2021, with regions of Slovakia, Hungary, and Latvia experiencing the highest losses.*

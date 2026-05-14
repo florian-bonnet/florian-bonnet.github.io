@@ -1,0 +1,14 @@
+---
+title: "Method for redistributing misclassified causes of death"
+author: "with P. Grigoriev and E. Perdrix"
+date: "2024-04-01"
+venue: "Population Studies"
+status: "Published"
+categories: [published, mortality-france]
+---
+
+[***Population Studies***]{.journal} · 2024
+
+\[[Article](https://doi.org/10.1080/00324728.2024.2332629)\] · \[[Replication kit](https://figshare.com/s/8b810e093fc32bcbe890)\]
+
+> *We document and provide tools for the practical implementation of a regression-based method for redistributing misclassified causes of death proposed by Sully Ledermann. We refine the method through elaborating on its mathematical properties and evaluating performance through simulations.*

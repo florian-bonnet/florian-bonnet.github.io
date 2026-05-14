@@ -1,0 +1,14 @@
+---
+title: "Income Inequality across French Departments over the Last 100 Years"
+author: "with H. d'Albis and A. Sotura"
+date: "2021-06-01"
+venue: "Economics and Statistics"
+status: "Published"
+categories: [published, income-distribution]
+---
+
+[***Economics and Statistics***]{.journal} · 2021
+
+\[[Article](https://www.insee.fr/en/statistiques/5432533?sommaire=5432550)\] · \[[Data (FRDB)](https://frdata.org/en/french-regional-income-database/)\] · \[[Media coverage](../media.qmd)\]
+
+> *Reconstruction of average fiscal income per French department since 1922 from Ministry of Finance archives. We document a significant reduction in interdepartmental average fiscal income inequality over the last century.*

@@ -1,0 +1,14 @@
+---
+title: "An Innovative Visual Approach to Monitor Simultaneously Two Dimensions of Progress in Longevity: An Application to French and German Regions"
+author: "with P. Grigoriev, S. Klüsener, F. Meslé, M. Mühlichen"
+date: "2024-05-01"
+venue: "Population Health Metrics"
+status: "Published"
+categories: [published, mortality-europe]
+---
+
+[***Population Health Metrics***]{.journal} · 2024
+
+\[[Article](https://doi.org/10.1186/s12963-024-00332-2)\] · \[[Replication kit](https://osf.io/fj3tc/)\]
+
+## \> *We introduce a novel graphical representation that combines national mortality rates with social inequalities, considering both absolute and relative measures. Age-specific analyses reveal for Germany some worrying regional divergence trends at ages 35-74 in recent years.*
