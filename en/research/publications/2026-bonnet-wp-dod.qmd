@@ -1,12 +1,12 @@
 ---
 title: "Divergent trajectories of the Deaths of Despair Burden across Subnational Regions in Europe"
-author: "with I. Alliger, C.-G. Camarda, S. Klüsener, F. Meslé, M. Mühlichen, E. Perdrix, P. Grigoriev"
-date: "2026-04-01"
-venue: ""
-status: "Under review at The Lancet Public Health"
-categories: [working-paper, mortality-europe, health-crises]
+author: "F. Bonnet, I. Alliger, C.-G. Camarda, S. Klüsener, F. Meslé, M. Mühlichen, E. Perdrix and P. Grigoriev"
+date: "2026"
+venue: "Working paper"
+status: "Under review"
+categories: [working-paper]
 ---
 
-[**Under review at *The Lancet Public Health***]{.status-tag} · 2026
+[**Under review**]{.status-tag}
 
-> *First comprehensive subnational analysis of deaths of despair across Europe, covering 170 regions from 23 countries. Three contiguous transnational clusters of stagnating or rising mortality emerged in North-Western and Eastern Europe, as well as Sweden. A clear north–south gradient is evident, with levels in Scotland, Lithuania, and parts of Poland exceeding those observed in the US.*
+> *While deaths of despair (DoD) have been extensively documented in the US, evidence for Europe remains scarce, particularly at the subnational level. Using cause-specific mortality data covering 170 regions from 23 countries and spanning the two decades preceding the COVID-19 pandemic, this study provides the first comprehensive subnational analysis of DoD mortality across Europe and benchmarks regional trends against the US. Our results reveal a 15% decline in the overall DoD burden across Europe. Yet this overall trend conceals deeply heterogeneous regional dynamics, with only two in three regions experiencing significant decreases. Three contiguous transnational clusters of stagnating or rising mortality emerged in the North-Western and Eastern parts of Europe, as well as in Sweden. At the end of the study period, a clear north–south gradient in DoD burden is evident, with levels in Scotland, Lithuania, and parts of Poland exceeding those observed in the US. Stratifying by age group and category of DoD reveals further concerning dynamics. Among the working-age population, steep increases in drug-related burden were observed in the United Kingdom and Sweden. Among the elderly, alcohol emerged as the dominant driver: rising mortality from acute alcohol-related causes affected one in two European regions, and from liver diseases one in three, with overall burden levels exceeding the US benchmark in half of all regions. These findings demonstrate that Europe is not immune to the forces driving deaths of despair and call for renewed subnational monitoring and regionally tailored public health responses.*

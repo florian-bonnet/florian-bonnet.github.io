@@ -1,12 +1,12 @@
 ---
 title: "Born in the right place. The geography of extreme longevity in France"
-author: "with M. Poulain"
-date: "2026-04-01"
-venue: ""
+author: "F. Bonnet and M. Poulain"
+date: ""
+venue: "Work in progress"
 status: "Work in progress"
-categories: [work-in-progress, mortality-france]
+categories: [work-in-progress]
 ---
 
-[**Work in progress**]{.status-tag} · 2026
+[**Work in progress**]{.status-tag}
 
-> *Using French civil registration records and the extinct cohort method, we compute sex-specific Extreme Longevity Index across 87 regions and 1,681 functional territorial units. Spatial cluster analysis reveals twelve longevity zones with robust boundaries. The Paris Area and the Low Loire Valley exhibit contrasting mortality patterns, identifying the Low Loire Valley as the most compelling candidate for a genuine blue zone in metropolitan France.*
+> *Geographic variation in extreme longevity remains poorly understood, largely due to the scarcity of methodologically rigorous, fine-grained analyses at the national scale. We address this question in part using French civil registration records for the 1904–1913 birth cohorts. By applying the extinct cohort method, which derives survival estimates from death records alone, we avoid reliance on census data, a source of systematic bias in analyses of extreme longevity.  We compute sex-specific Extreme Longevity Index (ELI) across 87 regions and 1,681 functional territorial units and show that the probability of surviving from birth to age 100 varies more than twofold across regions for women (from 0.89% to 2.32%) and fourfold for men (from 0.12% to 0.47%), with a geographically coherent and temporally stable pattern common to both sexes. Spatial cluster analysis further reveals twelve longevity zones whose boundaries are robust across multiple spatial weight specifications, including six high- and six low-longevity zones. Among the high-longevity zones, the Paris Area and the Low Loire Valley exhibit contrasting mortality patterns — consistent with heterogeneous frailty selection and a uniformly favourable environment, respectively — identifying the Low Loire Valley as the most compelling candidate for a genuine blue zone in metropolitan France.*

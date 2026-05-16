@@ -32,11 +32,11 @@ title: "Curriculum Vitae <small>(Last updated: May 2026)</small>"
 
 ## Publications
 
-*See [Publications](../research/publications.qmd) for the complete list of peer-reviewed articles and working papers.*
+*See [Publications](./research/publications.qmd) for the complete list of peer-reviewed articles and working papers.*
 
 ## Teaching
 
-*See [Teaching](../teaching.qmd) for the complete list of current and past lectures.*
+*See [Teaching](teaching.qmd) for the complete list of current and past lectures.*
 
 ## Research projects
 

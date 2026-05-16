@@ -27,16 +27,12 @@ website:
             text: Publications
           - href: en/research/tools.qmd
             text: Tools & Data
-          - href: en/research/media.qmd
-            text: Media
+      - href: en/media.qmd
+        text: Media
       - href: en/teaching.qmd
         text: Teaching
-      - text: About
-        menu:
-          - href: en/about/cv.qmd
-            text: CV
-          - href: en/about/contact.qmd
-            text: Contact
+      - href: en/cv.qmd
+        text: CV
   
   # Pied de page
   page-footer:
@@ -45,7 +41,7 @@ website:
       - icon: github
         href: https://github.com/florianbonnet
       - icon: envelope
-        href: mailto:ton.email@example.com
+        href: mailto:florian.bonnet@ined.fr
 
 format:
   html:

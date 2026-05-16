@@ -1,12 +1,12 @@
 ---
 title: "Vanguards and laggards in a healthy ageing society: Occupational disparities in life and disability-free life expectancy in France, 2011–2019"
-author: "with E. Cambois and C.-G. Camarda"
-date: "2026-01-01"
-venue: ""
+author: "E. Cambois, F. Bonnet and C.-G. Camarda"
+date: ""
+venue: "Work in progress"
 status: "Work in progress"
-categories: [work-in-progress, mortality-france]
+categories: [work-in-progress]
 ---
 
-[**Work in progress**]{.status-tag} · 2026
+[**Work in progress**]{.status-tag}
 
-> *Trends in disability and disability-free life expectancy by occupational class. The female highly skilled OC continued to gain LE at older ages but also experienced an expansion of DLE. These findings suggest no shared model of transition to longer life across social groups.*
+> *During the 2010s, progress in life expectancy (LE) in low-mortality countries slowed, fuelling debate over the possible limits of human longevity. Within the framework of health transition models, this slowdown raises questions about changes in health patterns and about how progress is distributed across social groups. If a common model of transition toward high longevity exists, can the currently longest-living groups be considered “vanguards”? And can further gains in LE occur through the diffusion of these groups’ advantages to others? To address these questions, we analysed trends in disability and disability-free life expectancy (DLE and DFLE) by occupational class (OC) for overlapping three-year periods from 2011–13 to 2017–19, using the Sullivan method applied to census-linked mortality data and the French EU-SILC survey. The female highly skilled OC—our “vanguard” group—continued to gain LE at older ages but also experienced an expansion of DLE. Female skilled workers caught up with the vanguards’ situation observed in the early 2010s through a compression of DLE. However, other OCs displayed divergent trajectories once they reached similar levels of LE. These preliminary findings suggest that there is no shared model of transition to longer life, with vanguards being progressively followed by lagging groups. While they do not contradict the possibility of future longevity gains, they underline the importance of recognising the diversity of health trajectories and needs across social groups in an ageing society.*

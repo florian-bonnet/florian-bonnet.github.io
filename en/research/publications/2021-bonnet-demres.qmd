@@ -1,14 +1,22 @@
 ---
 title: "Beyond the Exodus of May-June 1940: Internal Migrations in France during the Second World War"
-author: ""
-date: "2021-12-01"
+author: "F. Bonnet"
+date: "2021"
 venue: "Demographic Research"
 status: "Published"
-categories: [published, mortality-france]
+categories: [published]
 ---
 
-[***Demographic Research***]{.journal} · 2021
+[***Demographic Research***]{.journal}
 
 \[[Article](https://www.demographic-research.org/volumes/vol45/18/default.htm)\]
 
-## \> *New method to estimate annual populations of each region and deduce annual migration flows. A large proportion of the population (up to 60%) was displaced from the north to the south in 1940–41. The demarcation line did not prevent population movements. Demographic scars of war were still present in 1946.*
+> ***Background:*** *Research on annual migration between regions of the same country is scarce because statistical sources are often lacking. Consequently, little is known about migration between French regions during the Second World War.*
+>
+> ***Objective:*** *Propose a new method to estimate the annual populations of each region and deduce the annual migration flows between regions of the same country. Use this method to present the chronology of inter-regional migration flows in France during the Second World War.*
+>
+> ***Methods:*** *Annual regional populations are estimated using census populations and death-by-cause statistics at the local level. Death-by-cause statistics can be used to dissociate symmetrical mortality, which trends in the same way in the national territory, from asymmetrical mortality, which trends differently. This makes it possible to deduce the trend in the mortality rate and populations at the local level.*
+>
+> ***Results:*** *Analysis of French migration reveals that (1) a large proportion of the population (up to 60%) was displaced from the north to the south in 1940 and 1941; (2) the demarcation line did not prevent population movements; (3) the demographic scars of war were still present in 1946 since not all the refugees from the northwest and northeast returned.*
+>
+> ***Contribution:*** *This new method for analyzing annual migration flows between regions could be replicated to study other specific historical events. This paper also proposes a quantitative historical analysis of migration in France during the Second World War and shows that some territories were emptied of more than half their population in a few months.*

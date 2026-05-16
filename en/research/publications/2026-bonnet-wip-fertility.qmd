@@ -1,12 +1,12 @@
 ---
 title: "A Unified Innovation–Diffusion Theory of Fertility Transitions: New Insights from French Regional Fertility, 1853-2023"
-author: "with S. Florian"
-date: "2026-03-01"
-venue: ""
+author: "F. Bonnet and S. Florian"
+date: ""
+venue: "Work in progress"
 status: "Work in progress"
-categories: [work-in-progress, mortality-france]
+categories: [work-in-progress]
 ---
 
-[**Work in progress**]{.status-tag} · 2026
+[**Work in progress**]{.status-tag}
 
-## \> *We propose a theoretical framework unifying the narratives of fertility trends into a single model with two successive innovation–diffusion processes: the spread of lower fertility (quantum) and delayed fertility (tempo). Tested on French regional data 1855–2023.*
+> *We propose a theoretical framework that unifies the narratives of fertility trends into a single model with two successive innovation–diffusion processes: the spread of lower fertility (quantum) and delayed fertility (tempo), both proceeding through four phases and originating in wealthier regions before diffusing to lower-income ones. We test this framework using a new French dataset, analyzing trends in income per capita and Total Fertility Rates (TFR) by region from 1855 to 2023, decomposing TFRs into age-specific fertility rates (ASFR). During 1855–1945, TFRs were higher in poorer regions, as richer regions experienced earlier fertility decline. From 1970s, delayed fertility emerged first in high-income regions, increasing ASFRs at older ages, producing a rapid rise in mean age at birth (MAB), while poorer regions lagged behind. By 2023, results suggest that France has not yet entered the third phase of the tempo innovation, in which MAB converges across regions.*

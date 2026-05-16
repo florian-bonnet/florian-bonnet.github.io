@@ -1,14 +1,26 @@
 ---
 title: "Spatial variation in excess mortality across Europe: a cross-sectional study of 561 regions in 21 countries"
-author: "with P. Grigoriev, M. Sauerberg, I. Alliger, M. Mühlichen, C.-G. Camarda"
-date: "2024-03-01"
+author: "F. Bonnet, P. Grigoriev, M. Sauerberg, I. Alliger, M. Mühlichen and C.-G. Camarda"
+date: "2024"
 venue: "Journal of Epidemiology and Global Health"
 status: "Published"
-categories: [published, mortality-europe, health-crises]
+categories: [published]
 ---
 
 [***Journal of Epidemiology and Global Health***]{.journal} · 2024
 
 \[[Article](https://link.springer.com/article/10.1007/s44197-024-00200-0)\] · \[[Code & data (OSF)](https://osf.io/h68wz/)\] · \[[Shiny app](https://demomort.shinyapps.io/LE_losses2020/)\]
 
-## \> *Estimating excess mortality at the subnational level in 21 European countries. We find evidence of a loss in life expectancy in 391 regions, with losses exceeding 2 years in 12 regions. Geographic clusters of high mortality were found in Northern Italy, Spain and Poland; low mortality clusters in Western France, Germany/Denmark and Norway/Sweden.*
+> ***Objective:*** *To measure the burden of the COVID-19 pandemic in 2020 at the subnational level by estimating excess mortality, defined as the increase in all-cause mortality relative to an expected baseline mortality level. *
+>
+> ***Design:*** *Statistical and demographic analyses of regional all-cause mortality data.*
+>
+> ***Setting:*** *The vital statistics systems of 21 European countries.*
+>
+> ***Participants:*** *The entire population of 561 spatial units in 21 European countries.*
+>
+> ***Main Outcome Measures:*** *Losses of life expectancy at ages 0 and 60 for males and females.*
+>
+> ***Results:*** *We found evidence of a loss in life expectancy in 391 regions, while only three regions exhibit notable gains in life expectancy in 2020. For 12 regions, losses of life expectancy amounted to more than 2 years, and three regions showed losses greater than 3 years. We highlight geographic clusters of high mortality in Northern Italia, Spain and Poland, while clusters of low mortality were found in Western France, Germany/Denmark and Norway/Sweden.*
+>
+> ***Conclusions:*** *Regional differences of loss of life expectancy are impressive, ranging from a loss of more than 4 years to a gain of 8 months. These findings provide a strong rationale for regional analysis, as national estimates hide significant regional disparities.*

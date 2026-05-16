@@ -1,14 +1,14 @@
 ---
 title: "Contextualizing the Global Burden of COVID-19 Pandemic: A Historical and Geographical Exploration of Excess Mortality in France, 1901-2021"
-author: "with C.-G. Camarda"
-date: "2025-06-01"
+author: "F. Bonnet and C.-G. Camarda"
+date: "2025"
 venue: "Population and Development Review"
 status: "Published"
-categories: [published, mortality-france, health-crises]
+categories: [published]
 ---
 
-[***Population and Development Review***]{.journal} · 2025
+[***Population and Development Review***]{.journal}
 
-\[[Article](https://doi.org/10.1111/padr.70007)\] · \[[Code & data (OSF)](https://osf.io/q37es/)\] · \[[Media coverage](../media.qmd)\]
+\[[Article](https://doi.org/10.1111/padr.70007)\] · \[[Code & data (OSF)](https://osf.io/q37es/)\] · \[[Media coverage](../../media.qmd)\]
 
-> *We compare the COVID-19 burden in 90 French regions with that of the 1911 and 2003 heatwaves and the Spanish and Hong Kong flu pandemics. The COVID-19 burden was, on average, 90% lower than the Spanish Flu and 75% lower than the 1911 heatwave, but four times higher than the 2003 heatwave.*
+> *In light of the unprecedented global impact of COVID-19, comparing its demographic and spatial dimensions with past longevity crises is crucial for identifying core drivers and providing guidance for tailored health policies. This study offers the first analysis of this type, placing the recent pandemic in a historical and geographical context spanning the past 120 years and comparing its impact in 90 French regions with that of the 1911 and 2003 heatwaves and the Spanish and Hong Kong flu. Using a robust statistical model, we computed a standard excess mortality measure enabling comparison across both space and time and with the estimated effects of COVID-19 in European regions. Our results reveal that the COVID-19 burden was, on average, 90% lower than the Spanish Flu and 75% lower than the 1911 heatwave, but four times higher than the 2003 heatwave. We also reveal that the heterogeneity of the COVID-19 burden across French regions is high compared to the Spanish and the Hong Kong flu but in line with the 2003 heatwave. COVID-19's substantial spatial heterogeneity and clear spatial clusters could be the result of stringent containment measures that prevented the pandemic from spreading across the French territory, contrary to past pandemics.*

@@ -1,14 +1,22 @@
 ---
 title: "Influenza Mortality in French Regions after the Hong-Kong Flu Pandemic"
-author: "with H. d'Albis and J. Thuilliez"
-date: "2022-09-01"
+author: "F. Bonnet, H. d'Albis and J. Thuilliez"
+date: "2022"
 venue: "Demographic Research"
 status: "Published"
-categories: [published, mortality-france, health-crises]
+categories: [published]
 ---
 
-[***Demographic Research***]{.journal} · 2022
+[***Demographic Research***]{.journal}
 
 \[[Article](https://doi.org/10.4054/DemRes.2022.47.19)\]
 
-> *Using a new database on influenza mortality since 1950 at the subnational level, we identify the Hong Kong flu as a structural break. After the break, geographical differences are less explained by regional characteristics such as income, density, or aging ratio.*
+> ***Background:*** *Influenza mortality has dramatically decreased in France since the 1950s. Annual death rates peaked during two pandemics: the Asian flu (1956–1957) and the Hong Kong flu (1969–1970).*
+>
+> ***Objective:*** *This study’s objective is to evaluate whether the second pandemic created a structural change in the dynamics of influenza mortality in France.*
+>
+> ***Methods:*** *We employ a new database on influenza mortality since 1950 at the subnational level (90 geographic areas) to estimate statistical models to find out whether a structural change happened and to explain the differences in mortality rates across geographic areas. Influenza mortality increased between 1950 and 1969 and decreased from 1970 onward.*
+>
+> ***Contribution:*** *We employ a new database on influenza mortality since 1950 at the subnational level (90 geographic areas). Change in health practices and policies induced a decline in mortality that started in 1970, just after the pandemics. The health benefits are notably important for senior citizens and for the poorest regions.*
+>
+> ***Conclusions:*** *The Hong Kong flu is identified as the event of a structural break. After the break, geographical differences are less explained by regional characteristics such as income, density, or aging ratio. The Hong Kong flu was found to be associated with a major change in influenza mortality in France. Change in health practices and policies induced a decline in mortality that started in 1970, just after the pandemic. The health benefits are notably important for senior citizens and for the poorest regions.*

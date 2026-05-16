@@ -1,14 +1,14 @@
 ---
 title: "Income Inequality across French Departments over the Last 100 Years"
-author: "with H. d'Albis and A. Sotura"
-date: "2021-06-01"
+author: "F.Bonnet, H. d'Albis and A. Sotura"
+date: "2021"
 venue: "Economics and Statistics"
 status: "Published"
-categories: [published, income-distribution]
+categories: [published]
 ---
 
-[***Economics and Statistics***]{.journal} · 2021
+[***Economics and Statistics***]{.journal}
 
-\[[Article](https://www.insee.fr/en/statistiques/5432533?sommaire=5432550)\] · \[[Data (FRDB)](https://frdata.org/en/french-regional-income-database/)\] · \[[Media coverage](../media.qmd)\]
+\[[Article](https://www.insee.fr/en/statistiques/5432533?sommaire=5432550)\] · \[[Data (FRDB)](https://frdata.org/en/french-regional-income-database/)\] · \[[Media coverage](../../media.qmd)\]
 
-> *Reconstruction of average fiscal income per French department since 1922 from Ministry of Finance archives. We document a significant reduction in interdepartmental average fiscal income inequality over the last century.*
+> *This paper analyses the change in spatial income inequality across the departments of metropolitan France since 1922. Its most significant contribution is the reconstruction of average fiscal income per department, before and after the payment of income tax, based on an unprecedented use of archives from the Ministry of Finance. We highlight the following stylised facts: (i) a very significant reduction in interdepartmental average fiscal income inequality over the last century, with two periods of continuous decline, between 1922 and 1939 and from 1948 onwards; (ii) a significant contribution, albeit varying over time, of income tax to the reduction in inter-departmental inequality; (iii) an improvement in the situation in all departments lying along a line running from Calvados to Gard since 1948.*

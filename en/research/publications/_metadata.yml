@@ -2,3 +2,4 @@
 # pour éviter de les répéter dans chaque .qmd
 listing: false
 toc: false
+date-format: "YYYY"

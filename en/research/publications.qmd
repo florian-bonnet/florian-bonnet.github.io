@@ -1,31 +1,31 @@
 ---
 title: "Publications"
-description: "Peer-reviewed publications, working papers and work in progress"
+description: "Peer-reviewed publications, working papers and work in progress. Click on each paper to see its abstract, data, replication code and other details."
 listing:
   - id: pubs-listing
     contents: publications
-    type: default
-    fields: [title, author, venue, date, status, categories]
+    type: table
+    fields: [date, title, author, venue]
     field-display-names:
-      venue: "Journal"
-      status: "Status"
       date: "Year"
+      title: "Title"
+      author: "Authors"
+      venue: "Venue"
     field-types:
       date: "date"
     date-format: "YYYY"
     sort:
       - "date desc"
       - "title"
-    categories: true
-    sort-ui: [date, title]
-    filter-ui: [title, author, venue, status, categories]
+    categories: false
+    sort-ui: false
+    filter-ui: false
     feed: false
     page-size: 100
 toc: false
 ---
 
-::: {.callout-tip appearance="simple"}
-Use the **search box** to filter by title, author or journal. Click any **tag** to narrow by theme. Use the **sort menu** to change order.
+::: {#pubs-listing}
 :::
 
 ::: {#pubs-listing}

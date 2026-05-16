@@ -18,34 +18,37 @@ about:
 
 ## About
 
-I am a researcher (*chargé de recherches*) at the [Institut national d'études démographiques (Ined)](https://www.ined.fr), based in Aubervilliers, France. 
+I am a researcher (*chargé de recherches*) at the [Institut national d'études démographiques (Ined)](https://www.ined.fr), based in Aubervilliers, France.
 
 As an economist and demographer, my research focuses mainly on **the long-run dynamics of spatial demographic and economic divergence in France and Europe**.
 
-I am co-director of the [French Regional Database](https://frdb.site.ined.fr) and currently an elected member of INED's board of directors.
+I am co-director of the [French Regional Database](https://frdata.org/en/) and currently an elected member of INED's board of directors.
+
+**Adress**: 9 cours des Humanités, 93322 Aubervilliers Cedex, France\
+**E-mail**: florian.bonnet#ined.fr
 
 ## Current research projects
 
-- **Deaths of despair in Europe**: Is the increase in deaths of despair seen in the United States in recent decades also evident in specific geographical areas of Europe?
+-   **Deaths of despair in Europe**: Is the increase in deaths of despair seen in the United States in recent decades also evident in specific geographical areas of Europe?
 
-- **Extreme longevity in France**: Did the probability of reaching the age of 100 differ significantly depending on place of birth for cohorts born in the early 20th century who have since passed away?
+-   **Extreme longevity in France**: Did the probability of reaching the age of 100 differ significantly depending on place of birth for cohorts born in the early 20th century who have since passed away?
 
-- **Epidemiological transition in Paris**: How have differences in life expectancy between Parisian neighbourhoods and arrondissements evolved from the late 19th century to the present day?
+-   **Epidemiological transition in Paris**: How have differences in life expectancy and cause-specific mortality between Parisian neighbourhoods and districts evolved from the late 19th century to the present day?
 
-- **Regional income distributions in Europe**: Using tax statistics, is it possible to pinpoint individuals with the highest incomes in Western Europe at a granular level and see how this distribution has changed since 1990?
+-   **Regional income distributions in Europe**: Using tax statistics, is it possible to locate individuals with the highest incomes in Western Europe at a granular level and see how this distribution has changed since 1990?
 
 ## Selected recent publications
 
-- [Structural Change and Spatial Concentration of High Earners: Evidence from French Regions since 1960](./research/publications/2026-dalbis-jeg.qmd). *Journal of Economic Geography (Forthcoming)*.
-- [Potential and challenges for sustainable progress in human longevity](./research/publications/2026-alliger-natcomm.qmd). *Nature Communications (2026)*.
-- [Life and Death in a Changing City: Mortality Patterns and Inequalities in Paris, 1890–1949](./research/publications/2025-torres-padr.qmd). *Population and Development Review (2025)*.
+-   [Structural Change and Spatial Concentration of High Earners: Evidence from French Regions since 1960](./research/publications/2026-dalbis-jeg.qmd). *Journal of Economic Geography (Forthcoming)*.
+-   [Potential and challenges for sustainable progress in human longevity](./research/publications/2026-alliger-natcomm.qmd). *Nature Communications (2026)*.
+-   [Life and Death in a Changing City: Mortality Patterns and Inequalities in Paris, 1890–1949](./research/publications/2025-torres-padr.qmd). *Population and Development Review (2025)*.
 
 ## Recent activity
 
-- New article in [Le Monde](https://www.lemonde.fr/idees/article/2026/04/13/la-nouvelle-geographie-des-hauts-revenus-est-une-geographie-du-service-et-de-la-mondialisation_6679670_3232.html) about the recent economic divergence between French regions.
+-   [New article](https://www.lemonde.fr/idees/article/2026/04/13/la-nouvelle-geographie-des-hauts-revenus-est-une-geographie-du-service-et-de-la-mondialisation_6679670_3232.html) in Le Monde about the recent economic divergence between French regions.
 
-- *New paper accepted in Population Health Metrics*: Social Inequalities in Cause-specific Premature Mortality in Rural and Urban Areas of Mainland France Using Population Attributable Fractions (PAFs): A Pre-Pandemic Analysis
+-   *New paper accepted in Population Health Metrics*: "Social Inequalities in Cause-specific Premature Mortality in Rural and Urban Areas of Mainland France Using Population Attributable Fractions (PAFs): A Pre-Pandemic Analysis"
 
-- *Oral presentation* during the 16th Supercentenarian International Seminar (Ined, France) about spatial disparities in the probabilities of reaching age 100 in France for cohorts born in the early 20th century.
+-   *Oral presentation* during the [16th Supercentenarian International Seminar](https://www.supercentenarians.org/en/actualite) (Ined, France) about spatial disparities in the probabilities of reaching age 100 in France for cohorts born in the early 20th century.
 
-- *Oral presentation* during the Population Association of America Meeting (Saint-Louis, USA) about the different trajectories of Death of Despair mortality between European regions since 2000.
+-   *Oral presentation* during the [Population Association of America Meeting](https://www.populationassociation.org/paa2026/home) (Saint-Louis, USA) about the different trajectories of Death of Despair mortality between European regions since 2000.

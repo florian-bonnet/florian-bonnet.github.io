@@ -1,14 +1,14 @@
 ---
-title: "Potential and challenges for sustainable progress in human longevity. Empirical evidence from subnational mortality trends in Europe"
-author: "with I. Alliger, C.-G. Camarda, S. Klüsener, F. Meslé, M. Mühlichen, J. Thuilliez, P. Grigoriev"
-date: "2026-02-01"
+title: "Potential and challenges for sustainable progress in human longevity"
+author: "F. Bonnet, I. Alliger, C.-G. Camarda, S. Klüsener, F. Meslé, M. Mühlichen, J. Thuilliez and P. Grigoriev"
+date: "2026"
 venue: "Nature Communications"
 status: "Published"
-categories: [published, mortality-europe]
+categories: [published]
 ---
 
-[***Nature Communications***]{.journal} · 2026
+[***Nature Communications***]{.journal}
 
-\[[Article](https://www.nature.com/articles/s41467-026-68828-z)\] · \[[Code & data (OSF)](https://osf.io/3dhmz/)\] · \[[Shiny app](https://histdemo.shinyapps.io/ReLoG_Europe/)\] · \[[Media coverage](../media.qmd)\]
+\[[Article](https://www.nature.com/articles/s41467-026-68828-z)\] · \[[Code & data (OSF)](https://osf.io/3dhmz/)\] · \[[Shiny app](https://histdemo.shinyapps.io/ReLoG_Europe/)\] · \[[Media coverage](../../media.qmd)\]
 
-> *Decelerating gains in life expectancy in high-income countries have raised concerns about the future of human longevity. We scrutinize subnational mortality trends (N=450) in Western Europe during the pre-pandemic period. Between 1992 and 2005, e0 gains were substantial and widespread, with the fastest improvements in laggard regions. Between 2005 and 2019, however, e0 gains in these regions decelerated notably. The observed deceleration is strongly associated with mortality of the population aged 55–74.*
+> *Decelerating gains in life expectancy (e0) in high-income countries have raised concerns about the future of human longevity. To enhance better understanding of these developments, we scrutinize subnational (N=450) mortality trends in Western Europe during the pre-pandemic period. Between 1992 and 2005, e0 gains were both substantial and widespread. The laggard regions experienced the fastest improvements, which led to a rapid regional convergence. However, between 2005 and 2019, e0 gains in these regions decelerated notably. Yet, they remained remarkably stable in vanguard regions, suggesting that extending longevity remains possible. The observed deceleration of e0 gains is strongly associated with mortality of the population aged 55–74, which increased by 2019 across large parts of Western Europe, particularly in Germany and France. We strongly advocate that assessing and further monitoring mortality trends at a fine geographical level are crucial for revealing potentials and challenges for sustainable progress in human longevity.*

@@ -1,13 +1,13 @@
 ---
 title: "Inequalities in Life Expectancy and the Global Welfare Convergence"
-author: "with H. d'Albis"
-date: "2018-04-01"
+author: "H. d'Albis and F. Bonnet"
+date: "2018"
 venue: "Economics Letters"
 status: "Published"
-categories: [published, mortality-europe, income-distribution]
+categories: [published]
 ---
 
-[***Economics Letters***]{.journal} · 2018
+[***Economics Letters***]{.journal}
 
 \[[Article](https://www.sciencedirect.com/science/article/pii/S0165176518301265)\]
 

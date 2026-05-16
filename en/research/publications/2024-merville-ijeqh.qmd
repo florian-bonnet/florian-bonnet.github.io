@@ -1,14 +1,14 @@
 ---
 title: "Unpacking occupational and sex divides to understand the moderate progress in life expectancy in recent years (France, 2010's)"
-author: "with O. Merville, C.-G. Camarda and E. Cambois"
-date: "2024-09-01"
+author: "O. Merville, F. Bonnet, G. Launoy, C.-G. Camarda and E. Cambois"
+date: "2024"
 venue: "International Journal for Equity in Health"
 status: "Published"
-categories: [published, mortality-france]
+categories: [published]
 ---
 
-[***International Journal for Equity in Health***]{.journal} · 2024
+[***International Journal for Equity in Health***]{.journal}
 
 \[[Article](https://link.springer.com/article/10.1186/s12939-024-02310-4)\] · \[[Code & data (OSF)](https://osf.io/jyd58/)\]
 
-## \> *The growth in life expectancy slows down recently in several high-income countries. We utilize French census mortality follow-up data and apply P-spline models to estimate life expectancy across five occupational classes. Overall, the limited LE progress in France results from LE stalling in the middle of the gender-OC gradient, though LE increases at both ends.*
+> *The growth in life expectancy (LE) slows down recently in several high-income countries. Among the underlying dynamics, uneven progress in LE across social groups has been pointed out. However, these dynamics has not been extensively studied, partly due to data limitations. In this paper, we utilize the recent change in French census mortality follow-up data (EDP) and apply P-spline models to explore this area. We estimate LEs across five occupational classes (OCs) and indicators of lifespan heterogeneity (edagger) within these OCs, for seven triennial periods (2011–2013 to 2017–2019). First, we found a similar ranking of OCs along the LE gradient over time and across genders, from manual workers to higher-level OCs. Noteworthy, the lowest LE in women overlaps with the highest one in men. Second, we observe varying progress of LEs. In women, LE increases in higher-level OCs meanwhile it levels off in manual workers, so that the OCs gap widens (up to 3.4 years in 2017–2019). Conversely, in men LE stalls in higher-level OCs and increases in manual workers so that the gap, which is much larger than in women (+5.7 years in 2017–2019), is tending to narrow. Finally, the lifespan homogenizes in OCs only when LE is low. Overall, the limited LE progress in France results from LE stalling in the middle of the gender-OC gradient, though LE increases at both ends. At the lower end, LE progress and lifespan homogenization suggest that  laggards benefit recently improvements achieved earlier in other OCs. At the upper end, LE progress may come from a vanguard group within higher-lever OC, benefiting new sources of improvements. These findings underscore the need for further research to explore the diverse mortality dynamics coexisting in the current health landscape.*

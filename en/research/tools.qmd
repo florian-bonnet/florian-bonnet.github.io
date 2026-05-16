@@ -4,19 +4,19 @@ title: "Tools & Data"
 
 ## Interactive applications
 
-### Regional Longevity Gains in Europe
+### Regional longevity gains in Europe
 
 Visualize subnational longevity trends across 450 European regions between 1992 and 2019.\
 Companion to [Nature Communications (2026)](./publications/2026-alliger-natcomm.qmd).
 → [Launch app](https://histdemo.shinyapps.io/ReLoG_Europe/)
 
-### Mortality by cause in Paris and Parisian neighborhoods, 1890–1949.
+### Mortality by cause in Paris and Parisian neighborhoods.
 
 Visualize Parisian trends in cause-specific mortality and spatial differences across the 80 Parisian neighborhoods between 1890 and 1949.\
 Companion to [Population and Development Review (2025)](./publications/2025-torres-padr.qmd).
 → [Launch app](https://mortalidad-pp.shinyapps.io/suppl_results_mortality_cod_paris/) · 
 
-### COVID-19 mortality in Europe
+### COVID-19 excess mortality in Europe
 
 Visualize the pandemic burden across more than 500 European regions in 2020 and 2021.\
 Companion to [Nature Communications (2024)](./publications/2024-bonnet-natcomm.qmd).
@@ -27,6 +27,14 @@ Companion to [Nature Communications (2024)](./publications/2024-bonnet-natcomm.q
 ## Open datasets
 
 ### French Regional Database
+
+I am currently co-director of the French Regional Database. The main objectives of this project are to make historical demographic and economic data on the regions of metropolitan France available, as well as to improve our understanding of French territorial specificities through their analysis over the long term.
+
+This project relies on the digitization of archives held by French statistical institutes, covering, among other things, vital statistics, censuses, household income tax returns and inheritance declarations.
+
+The digitization of these original raw data, combined with the use of rigorous methodological protocols, should enable the development of a set of demographic and economic databases within the French territorial database. It currently includes the French Human Mortality Database and the French Regional Income Database.
+
+The final data are available at 3 different geographical levels, consistent with the Nomenclature of Territorial Units for Statistics (NUTS) used by Eurostat. These are *départements* (NUTS 3, 97 units), former small regions (NUTS 2, 22 units), and current large regions (NUTS 1, 13 units).
 
 → [Visit the French Regional Database](https://frdata.org/) · [French Human Mortality Database](https://frdata.org/en/french-human-mortality-database/) · [French Regional Income Database](https://frdata.org/en/french-regional-income-database/)
 

@@ -1,14 +1,14 @@
 ---
 title: "Method for redistributing misclassified causes of death"
-author: "with P. Grigoriev and E. Perdrix"
+author: "F. Bonnet, P. Grigoriev and E. Perdrix"
 date: "2024-04-01"
 venue: "Population Studies"
 status: "Published"
-categories: [published, mortality-france]
+categories: [published]
 ---
 
-[***Population Studies***]{.journal} · 2024
+[***Population Studies***]{.journal}
 
 \[[Article](https://doi.org/10.1080/00324728.2024.2332629)\] · \[[Replication kit](https://figshare.com/s/8b810e093fc32bcbe890)\]
 
-> *We document and provide tools for the practical implementation of a regression-based method for redistributing misclassified causes of death proposed by Sully Ledermann. We refine the method through elaborating on its mathematical properties and evaluating performance through simulations.*
+> *The analysis of causes of death is crucial for monitoring the epidemiologic situation and developing adequate policy responses. Yet, various methodological challenges complicate such analysis. The comparability of cause-specific mortality data depends on the proportion of misclassified deaths. To eliminate the bias due to varying proportion of such causes over time and between populations, one has to reassign ill-defined causes to other categories. In this research note, we thoroughly document and provide tools for the practical implementation of a regression-based method for redistributing misclassified causes of death proposed by a French demographer, Sully Ledermann. The method relies on the sub-national cause-specific mortality data to estimate unbiased death rates at both the national and sub-national levels. We refine the Ledermann’s method through elaborating on its mathematical properties, making additional adjustments, and evaluating the performance of the approach through simulations. To illustrate the practical application of the method, we rely on the French regional data on causes of death for the period 1979–2016. To ensure the reproducibility of the obtained results and enable potential users to adapt the program to their data, we provide the R code performing all calculations.*

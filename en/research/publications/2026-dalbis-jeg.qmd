@@ -1,14 +1,14 @@
 ---
 title: "Structural Change and Spatial Concentration of High Earners: Evidence from French Regions since 1960"
-author: "with H. d'Albis and A. Sotura"
-date: "2026-01-01"
+author: "F. Bonnet, H. d'Albis and A. Sotura"
+date: "2026"
 venue: "Journal of Economic Geography"
-status: "Accepted"
-categories: [published, income-distribution]
+status: "Published"
+categories: [published]
 ---
 
-[***Journal of Economic Geography***]{.journal} · Accepted
+[***Journal of Economic Geography***]{.journal}
 
-\[[Working Paper](https://drive.google.com/file/d/1rgn5Rf4Eb_GaWoT8MnpNouMwsupganI-/view?usp=sharing)\] · \[[Media coverage](../media.qmd)\]
+\[[Article](https://doi.org/10.1093/jeg/lbag012)\] · [[Working Paper (Open access)](https://drive.google.com/file/d/1rgn5Rf4Eb_GaWoT8MnpNouMwsupganI-/view?usp=sharing)\] · \[[Media coverage](../../media.qmd)\]
 
-> *This paper analyzes the shares of high-income earners within local populations, leveraging consistent annual income distributions for 90 French regions since 1960. The spatial dispersion of these shares has followed a U-shaped trajectory: a high concentration level in the 1960s, a decline in subsequent decades, and a marked increase since the early 2000s. We demonstrate that shifts in regional productive structures explain this U-shaped trajectory.*
+> *This paper analyzes the shares of high-income earners within local populations, leveraging consistent annual income distributions for 90 French regions since 1960. The spatial dispersion of these shares has followed a U-shaped trajectory: a high concentration level in the 1960s, a decline in subsequent decades, and a marked increase since the early 2000s. In the 1960s, high-income earners were over-represented in the largest urban areas and the industrial Northeast. Today, they remain over-represented in the largest urban areas and near Switzerland. We demonstrate that shifts in regional productive structures explain this U-shaped trajectory. Deindustrialization initially reduced regional economic disparities, lowering the concentration of high-income earners. However, the shift to a service-based economy led to a resurgence of spatial concentration, as high-skilled workers increasingly clustered in large cities to benefit from agglomeration economies.*

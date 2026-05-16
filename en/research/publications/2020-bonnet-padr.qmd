@@ -1,14 +1,14 @@
 ---
 title: "Spatial Inequality in Mortality in France over the Past Two Centuries"
-author: "with H. d'Albis"
-date: "2020-12-01"
+author: "F. Bonnet and H. d'Albis"
+date: "2020"
 venue: "Population and Development Review"
 status: "Published"
-categories: [published, mortality-france]
+categories: [published]
 ---
 
-[***Population and Development Review***]{.journal} · 2020
+[***Population and Development Review***]{.journal}
 
-\[[Article](https://onlinelibrary.wiley.com/doi/abs/10.1111/padr.12318)\] · \[[Open Access](https://drive.google.com/file/d/1lgofKhkkZSWN6NUGEoXAbNDnoylVQ_3s/view?usp=sharing)\] · \[[Data (FRDB)](https://frdata.org/en/french-human-mortality-database/)\] · \[[Media coverage](../media.qmd)\]
+\[[Article](https://onlinelibrary.wiley.com/doi/abs/10.1111/padr.12318)\] · \[[Open Access](https://drive.google.com/file/d/1lgofKhkkZSWN6NUGEoXAbNDnoylVQ_3s/view?usp=sharing)\] · \[[Data (FRDB)](https://frdata.org/en/french-human-mortality-database/)\] · \[[Media coverage](../../media.qmd)\]
 
-## \> *Evolution of spatial inequalities in mortality across 90 French territorial units since 1806. We identify a period from 1881 to 1980 when inequalities rapidly shrank while life expectancy rose. The geography of mortality also changed radically: from a North-west/South-east line in the 19th century to a North-only concentration today, with Paris and Lyon enjoying an urban advantage.*
+> *This article analyzes the evolution of spatial inequalities in mortality across 90 French territorial units since 1806. Using a new database, we identify a period from 1881 to 1980 when inequalities rapidly shrank while life expectancy rose. This century of convergence across territories was mainly due to the fall in infant mortality. Since 1980, spatial inequalities have levelled out or occasionally widened, due mainly to differences in life expectancy among the elderly. The geography of mortality also changed radically during the century of convergence. Whereas in the 19th century high mortality occurred mainly in larger cities and along a line from North-west to South-east France, it is now concentrated in the North, and Paris and Lyon currently enjoy an urban advantage.*

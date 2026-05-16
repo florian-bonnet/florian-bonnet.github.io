@@ -1,12 +1,12 @@
 ---
 title: "Understanding geographic disparities in mortality overtime in France, 1975-2019"
-author: "with A. Lleras-Muney, D. Yue, J. Thuilliez"
-date: "2026-02-01"
-venue: ""
+author: "F. Bonnet, A. Lleras-Muney, D. Yue and J. Thuilliez"
+date: "2026"
+venue: "Working paper"
 status: "R&R in Demography"
-categories: [working-paper, mortality-france]
+categories: [working-paper]
 ---
 
-[**R&R in *Demography***]{.status-tag} · 2026
+[**R&R in *Demography***]{.status-tag}
 
-> *We compute the first annual full lifetables by place of birth for 90 French regions and compare them with lifetables by place of residence. Geographic disparities by place of birth have continuously declined, but measured by place of residence they have risen since the 1990s. The French geographical income gradient was negative and became positive in the 1990s when measured by place of residence; when measured by place of birth, it has never been positive.*
+> *Recent research has shown that geography is an important predictor of life expectancy at birth (e0). However, most papers have focused on place of residence at death (PoR), yet place of birth (PoB) may be a more important predictor of later mortality. To study how different measures of geography matter, we compute the first annual full lifetables by PoB for 90 French regions between 1975 and 2019 and compare them with lifetables by PoR. We show that e0 by PoR and PoB are highly correlated, but they have diverged in recent times, particularly for men, consistent with the growing importance of migration. This divergence has consequences on the trends in geographic disparities of longevity.  First, geographic disparities by PoB have continuously declined, but measured by PoR they have risen since the 1990s. Second, the French geographical income gradient - the association between regional income and e0 - was negative and became positive in the 1990s when measured by PoR. When measured by PoB, the gradient has never been positive: it was negative but is now insignificant. These results are qualitatively similar if we study life expectancy at age 50.*

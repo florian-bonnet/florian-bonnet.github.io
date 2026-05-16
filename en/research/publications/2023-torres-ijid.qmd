@@ -1,14 +1,20 @@
 ---
 title: "Identifying age- and sex-specific COVID-19 mortality trends over time in six countries"
-author: "with C. Torres, J. García et al."
-date: "2023-01-01"
+author: "Catalina Torres, Jenny García, France Meslé, Magali Barbieri, Florian Bonnet, Carlo Giovanni Camarda, Emmanuelle Cambois, Arianna Caporali, Étienne Couppié, Svitlana Poniakina and Jean-Marie Robine"
+date: "2023"
 venue: "International Journal of Infectious Diseases"
 status: "Published"
-categories: [published, health-crises]
+categories: [published]
 ---
 
-[***International Journal of Infectious Diseases***]{.journal} · 2023
+[***International Journal of Infectious Diseases***]{.journal}
 
 \[[Article](https://doi.org/10.1016/j.ijid.2022.12.004)\]
 
-> *We focus on five European countries and the United States. Periods of stabilization were identified during summer (especially in 2020) among European countries, but not in the United States. There is seasonality in COVID-19 mortality, with higher rates during winter.*
+> ***Objective:*** *The COVID-19 pandemic is characterized by successive waves that each developed differently over time and through space. We aim to provide an in-depth analysis of the evolution of COVID-19 mortality during 2020 and 2021 in a selection of countries.*
+>
+> ***Methods:*** *We focus on five European countries and the United States. Using standardised and age-specific mortality rates, we address variations in COVID-19 mortality within and between countries, as well as demographic characteristics and seasonality patterns.*
+>
+> ***Results:*** *Our results highlight periods of acceleration and deceleration in the pace of COVID-19 mortality, with substantial differences across countries. Periods of stabilization were identified during summer (especially in 2020) among the European countries analysed, but not in the United States. The latter stands out as the study population with the highest COVID-19 mortality at young ages. In general, COVID-19 mortality is highest at old ages, particularly during winter. Compared to women, men have higher COVID-19 mortality rates at most ages and in most seasons.*
+>
+> ***Conclusions:*** *There is seasonality in COVID-19 mortality for both sexes at all ages, characterized by higher rates during winter. In 2021, the highest COVID-19 mortality rates continued to be observed at ages 75+, despite vaccinations having specifically targeted those ages.*

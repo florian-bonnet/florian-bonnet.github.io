@@ -1,14 +1,14 @@
 ---
 title: "Does prosperity pay? Unraveling the relationship between economic performance and life expectancy across a large number of European regions, 2008-2019"
-author: "with M. Sauerberg, L. A. Cilek, M. Mühlichen, I. Alliger, C.-G. Camarda"
-date: "2024-06-01"
-venue: ""
-status: "Working paper"
-categories: [working-paper, mortality-europe, income-distribution]
+author: "M. Sauerberg, L. A. Cilek, M. Mühlichen, F. Bonnet, I. Alliger and C.-G. Camarda"
+date: "2024"
+venue: "Working paper"
+status: ""
+categories: [working-paper]
 ---
 
-[**Working paper**]{.status-tag} · 2024
+[**Working paper**]{.status-tag}
 
 \[[medRxiv preprint](https://www.medrxiv.org/content/10.1101/2024.06.11.24308750v1)\]
 
-> *We build Preston curves from regression models using regional data for 21 European countries divided into 506 regions. There is indeed a positive association between GDP per capita and life expectancy, with an upward shift in the curve over time. Yet the relationship differs between geographical areas.*
+> *Understanding the relationship between life expectancy at birth (e0) and the gross domestic product per capita (GDPpc) is relevant for cohesion policies in the European Union (EU) because it might imply that economic convergence (or divergence) is accompanied by narrowing (or widening) health gaps. Previous studies have studied the association between GDPpc and e0 almost exclusively based on national data. It is certainly more appropriate, however, to study the relationship at the subnational level because levels and trends in both variables, e0 and GDPpc, vary substantially across Europe’s regions. Accordingly, our study aims to examine whether the economic performance of regions predicts their e0 level. We build Preston curves from regression models using regional data for 21 European countries, divided into 506 regions. Mortality data comes from statistical offices and GDPpc can be obtained from the Eurostat database. The period 2008 to 2019 is particularly interesting as it follows the EU enlargement to central-eastern European countries in 2004. In our analysis, spatial units refer to NUTS-2 or NUTS-3 regions, depending on the size of the country. Our results suggest that there is indeed a positive association between GDPpc and e0. Similarly, to Preston’s original analysis, we observe an upward shift in the curve, indicating that factors exogenous to a region’s GDPpc level play an important role in explaining e0 gains as well. Yet, the relationship differs between geographical areas and we also find examples such as women in Germany, Austria, Poland, and the Netherlands where it does not seem to hold.*

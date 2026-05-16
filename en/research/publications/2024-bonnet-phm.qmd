@@ -1,14 +1,20 @@
 ---
 title: "An Innovative Visual Approach to Monitor Simultaneously Two Dimensions of Progress in Longevity: An Application to French and German Regions"
-author: "with P. Grigoriev, S. Klüsener, F. Meslé, M. Mühlichen"
-date: "2024-05-01"
+author: "F. Bonnet, P. Grigoriev, S. Klüsener, F. Meslé and M. Mühlichen"
+date: "2024"
 venue: "Population Health Metrics"
 status: "Published"
-categories: [published, mortality-europe]
+categories: [published]
 ---
 
-[***Population Health Metrics***]{.journal} · 2024
+[***Population Health Metrics***]{.journal}
 
 \[[Article](https://doi.org/10.1186/s12963-024-00332-2)\] · \[[Replication kit](https://osf.io/fj3tc/)\]
 
-## \> *We introduce a novel graphical representation that combines national mortality rates with social inequalities, considering both absolute and relative measures. Age-specific analyses reveal for Germany some worrying regional divergence trends at ages 35-74 in recent years.*
+> ***Background:*** *Both enhancing life expectancy as well as diminishing inequalities in lifespan among social groups represent significant goals for public policy. However, there is a lack of methodological tools to simultaneously monitor progress in both dimensions. Additionally, there is a consensus that absolute and relative inequalities in lifespan must be scrutinized together.*
+>
+> ***Methods:*** *We introduce a novel graphical representation that combines national mortality rates with social inequalities, considering both absolute and relative measures. We use French and German data stratified by place of residence to illustrate this representation.*
+>
+> ***Results:*** *For all-age mortality we detect for France a rather continuous pace of decline in both mortality levels and variation. In Germany, substantial progress was made in the 1990s, which was mostly driven by convergence between eastern and western Germany, followed by a period with less progress. Age-specific analyses reveal for Germany some worrying regional divergence trends at ages 35-74 in recent years. This is particularly pronounced among women.*
+>
+> ***Conclusion:*** *Our novel visual approach allows evaluating easily the dynamics of societal progress in terms of longevity, and facilitates meaningful comparisons between populations, even when their current mortality rates differ. The methods we employ can be reproduced easily in any country with longitudinal mortality data stratified by relevant socio-economic information or regions. It is both useful for scientific analyses as well as policy advice.*

@@ -1,14 +1,14 @@
 ---
 title: "Mortality Inequalities in France since the 1920s: Evidence of a Reversal of the Income Gradient in Mortality"
-author: "with H. d'Albis and J. Thuilliez"
-date: "2023-04-01"
+author: "F. Bonnet, H. d'Albis and J. Thuilliez"
+date: "2023"
 venue: "PLoS ONE"
 status: "Published"
-categories: [published, mortality-france, income-distribution]
+categories: [published]
 ---
 
-[***PLoS ONE***]{.journal} · 2023
+[***PLoS ONE***]{.journal}
 
 \[[Article](https://doi.org/10.1371/journal.pone.0280272)\]
 
-> *Using a unique dataset with annual lifetables and fiscal income for 90 French regions from 1922 to 2020, we reveal a systematic reversal of the income gradient in mortality that occurred around the 1970s. Inequality has however returned to a level observed at least ten years earlier because of COVID-19.*
+> *Many recent studies show that Europe has had a lower mortality inequality for most ages than the United States over the last thirty years. However, the evolution of the income gradient in mortality all along the twentieth century remains poorly understood. This article uses a unique dataset that gives the annual lifetables and fiscal income for the 90 administrative regions of mainland France from 1922 to 2020. The income gradients in mortality are computed across regions using a traditional method with calendar ages and, alternatively, with mortality milestones to control for the increase in life expectancy over time. The study reveals a systematic reversal of the gradient that occurred around the 1970s for both sexes and all ages or mortality groups when calculated at an aggregated level. Inequality in mortality amongst the oldest age groups has however returned to a level observed at least ten years earlier because of Covid-19, even after controlling for mortality improvements over the period.*

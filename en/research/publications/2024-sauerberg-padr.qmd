@@ -1,14 +1,14 @@
 ---
 title: "Mortality convergence in Europe? Spatial differences in life expectancy gains between 1995 and 2019"
-author: "with M. Sauerberg, C.-G. Camarda and P. Grigoriev"
-date: "2024-06-01"
+author: "M. Sauerberg, F. Bonnet, C.-G. Camarda and P. Grigoriev"
+date: "2024"
 venue: "Population and Development Review"
 status: "Published"
-categories: [published, mortality-europe]
+categories: [published]
 ---
 
-[***Population and Development Review***]{.journal} · 2024
+[***Population and Development Review***]{.journal}
 
-\[[Article](https://onlinelibrary.wiley.com/doi/10.1111/padr.12657)\]
+\[[Article](https://onlinelibrary.wiley.com/doi/10.1111/padr.12657)\] [[Media coverage](../../media.qmd)]
 
-> *Using annual e0 estimates for 420 regions in 16 EU countries from 1995 to 2019, we examined whether regions with initially high mortality levels caught up with low-mortality regions. Mortality variation has generally decreased over the period, but in more recent years some advantaged regions realized further gains while improvements slowed for more disadvantaged regions.*
+> *The conventional approach to gauging mortality convergence in Europe relies on life expectancy estimates (e0) at the national level. However, mortality can differ within countries significantly. To better apprehend whether Europe's mortality patterns have been converging or diverging over recent decades, we must shift our focus to regional mortality data. Using data from statistical offices, we present annual e0 estimates for 420 regions in 16 EU countries from 1995 to 2019. In our empirical analysis, we examined whether regions with initially high mortality levels caught up with low-mortality regions, and we investigated changes in the standard deviation of Europe's regional distribution over time. Indeed, mortality variation has generally decreased from 1995 to 2019 due to larger gains in e0 for regions with initially high mortality levels. The convergence phase took place mostly during the first half of the entire time period analyzed. Over more recent periods, however, we observe more heterogeneity in the development of e0. Some advantaged regions realized further gains in e0, even as e0 improvements slowed for more disadvantaged regions. In conclusion, our analysis underscores the importance of addressing widening health inequalities. Policies should target disadvantaged regions to retard mortality divergence across Europe.*

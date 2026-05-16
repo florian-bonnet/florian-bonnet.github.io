@@ -1,0 +1,18 @@
+---
+title: "Social Inequalities in Cause-specific Premature Mortality in Rural and Urban Areas of Mainland France Using Population Attributable Fractions (PAFs): A Pre-Pandemic Analysis"
+author: "N. Mahrouseh, F. Bonnet, O. Varga, A. Scohy, O. Bruyère, C. Delpierre, B. Devleesschauwer, G. Wyper and R. Haneef"
+date: "2026"
+venue: "Population Health Metrics"
+status: "Accepted"
+categories: [accepted]
+---
+
+[***Population Health Metrics (forthcoming)***]{.journal}
+
+> ***Background:*** *Social inequalities remain a major determinant of mortality across Europe. This study aimed first to quantify cause-specific premature mortality across urban and rural areas in mainland France during the pre-pandemic period, taking into account social inequalities, and second to assess the extent of these social inequalities using the population attributable fraction (PAF) approach.*
+>
+> ***Methods:*** *Cause-specific deaths were identified from the French national mortality database and linked to municipality-level deprivation quintiles using French European Deprivation Index (F-EDI). Residual life expectancy at age of death was defined according to the Global Burden of Disease (GBD) 2019 reference life table. Age-standardized years of life lost rates (ASYRs) were calculated by sex, deprivation quintile, and rural–urban setting. Social inequalities in mortality were assessed using absolute and relative gaps between the least and most deprived quintiles (Q1-Q5) and PAF, with Q1 as the reference.*
+>
+> ***Results:*** *ASYRs for Level 1 GBD causes increased consistently with area deprivation in both urban and rural mainland France. Non-communicable diseases accounted for most premature mortality (85-90% of total YLL) in both sexes, followed by injuries and communicable, maternal, neonatal, and nutritional causes. In urban areas, 18–31% of cause-specific premature mortality was attributed to social inequalities, compared with 8–20% in rural areas, with higher contributions among males. The absolute difference in ASYRs was slightly larger in rural than urban areas for both sexes (females: 2,854 vs 2,463; males: 6,607 vs 5,618). Relative inequalities were similar across both settings (females: 1.30; males: 1.39, comparing Q5 with Q1). By cause, breast cancer showed the largest inequality among females (11-12% higher in Q5), while lung cancer exhibited the highest disparity among males (75% higher in Q5 in urban areas and 43% in rural areas).*
+>
+> ***Conclusions:*** *Social inequalities substantially contributed to cause-specific premature mortality in pre-pandemic mainland France. ASYRs increased with deprivation in both urban and rural areas and were consistently higher among males. The persistent deprivation gradient and higher PAFs highlight the particularly marked impact of social inequalities in urban areas. These findings provide a pre-pandemic baseline for evaluating post–COVID-19 trends in premature mortality and health disparities in France.*

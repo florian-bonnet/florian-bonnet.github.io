@@ -1,14 +1,14 @@
 ---
 title: "The demography of COVID-19 deaths database, a gateway to well-documented international data"
-author: "with A. Caporali et al."
-date: "2022-03-01"
+author: "Arianna Caporali, Jenny Garcia, Étienne Couppié, Svitlana Poniakina, Magali Barbieri, Florian Bonnet, Carlo Giovanni Camarda, Emmanuelle Cambois, Iris Hourani, Daria Korotkova, France Meslé, Olga Penina, Jean-Marie Robine, Markus Sauerberg and Catalina Torres"
+date: "2022"
 venue: "Scientific Data"
 status: "Published"
-categories: [published, health-crises]
+categories: [published]
 ---
 
-[***Scientific Data***]{.journal} · 2022
+[***Scientific Data***]{.journal}
 
 \[[Article](https://doi.org/10.1038/s41597-022-01191-y)\]
 
-> *Open-access database providing COVID-19 death counts along with documentation about data sources, quality and coverage. Daily cumulative death counts broken down by sex, age, place and date of occurrence, for 21 countries in Europe and beyond.*
+> *National authorities publish COVID-19 death counts, which are extensively re-circulated and compared; but data are generally poorly sourced and documented. Academics and stakeholders need tools to assess data quality and to track data-related discrepancies for comparability over time or across countries. “The Demography of COVID-19 Deaths” database aims at bridging this gap. It provides COVID-19 death counts along with associated documentation, which includes the exact data sources and points out issues of quality and coverage of the data. The database — launched in April 2020 and continuously updated — contains daily cumulative death counts attributable to COVID-19 broken down by sex and age, place and date of occurrence of the death. Data and metadata undergo quality control checks prior to online release. As of mid-December 2021, it covers 21 countries in Europe and beyond. It is open access at a bilingual (English and French) website with content intended for expert users and non-specialists. Data and metadata are available for each country separately and pooled over all countries.*
