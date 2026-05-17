@@ -1,5 +1,6 @@
 ---
 title: "Media coverage"
+other-lang-href: /fr/media.html
 ---
 
 ## 2026

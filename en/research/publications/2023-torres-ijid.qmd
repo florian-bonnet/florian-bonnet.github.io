@@ -1,5 +1,6 @@
 ---
 title: "Identifying age- and sex-specific COVID-19 mortality trends over time in six countries"
+other-lang-href: /fr/research/publications.html
 author: "Catalina Torres, Jenny García, France Meslé, Magali Barbieri, Florian Bonnet, Carlo Giovanni Camarda, Emmanuelle Cambois, Arianna Caporali, Étienne Couppié, Svitlana Poniakina and Jean-Marie Robine"
 date: "2023"
 venue: "International Journal of Infectious Diseases"

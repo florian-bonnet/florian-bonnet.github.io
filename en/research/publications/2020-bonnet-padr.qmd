@@ -1,5 +1,6 @@
 ---
 title: "Spatial Inequality in Mortality in France over the Past Two Centuries"
+other-lang-href: /fr/research/publications.html
 author: "F. Bonnet and H. d'Albis"
 date: "2020"
 venue: "Population and Development Review"

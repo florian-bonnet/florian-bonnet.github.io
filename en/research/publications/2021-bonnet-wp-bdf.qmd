@@ -1,5 +1,6 @@
 ---
 title: "Distributions of fiscal income in French regions, 1960-2018"
+other-lang-href: /fr/research/publications.html
 author: "F. Bonnet and A. Sotura"
 date: "2021"
 venue: "Working Paper"

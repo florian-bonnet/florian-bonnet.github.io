@@ -1,5 +1,6 @@
 ---
 title: "Employees in higher-level occupations outlive manual workers. How long do they live in retirement or (in) activity?"
+other-lang-href: /fr/research/publications.html
 author: "F. Bonnet, C.-G. Camarda, E. Cambois and O. Merville"
 date: "2023"
 venue: "Population & Societies"

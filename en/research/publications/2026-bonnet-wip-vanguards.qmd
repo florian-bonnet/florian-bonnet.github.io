@@ -1,5 +1,6 @@
 ---
 title: "Vanguards and laggards in a healthy ageing society: Occupational disparities in life and disability-free life expectancy in France, 2011–2019"
+other-lang-href: /fr/research/publications.html
 author: "E. Cambois, F. Bonnet and C.-G. Camarda"
 date: ""
 venue: "Work in progress"

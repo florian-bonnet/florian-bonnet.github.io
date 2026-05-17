@@ -1,5 +1,6 @@
 ---
 title: "Life and Death in a Changing City: Mortality Patterns and Inequalities in Paris, 1890–1949"
+other-lang-href: /fr/research/publications.html
 author: "F. Bonnet, C. Torres, L. Kesztenbaum and F. Meslé"
 date: "2025"
 venue: "Population and Development Review"

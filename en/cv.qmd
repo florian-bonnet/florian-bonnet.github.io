@@ -1,5 +1,6 @@
 ---
 title: "Curriculum Vitae <small>(Last updated: May 2026)</small>"
+other-lang-href: /fr/cv.html
 ---
 
 [**Download full CV (PDF)**](../../files/cv-bonnet.pdf){.btn .btn-primary role="button" target="_blank"}

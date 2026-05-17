@@ -1,5 +1,6 @@
 ---
 title: "Spatial Disparities in Disability Prevalence at the District Level in Sub-Saharan African Countries"
+other-lang-href: /fr/research/publications.html
 author: "A. Simo-Fotso, J. Martin and F. Bonnet"
 date: ""
 venue: "Work in progress"

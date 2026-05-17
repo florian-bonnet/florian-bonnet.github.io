@@ -1,50 +1,32 @@
 ---
 title: "Axes de recherche"
-description: "Quatre axes complémentaires en démographie, économie et analyse spatiale"
+other-lang-href: /en/research/themes.html
 ---
 
-Mon programme de recherche s'articule autour de **quatre axes complémentaires** qui convergent vers une question centrale : *comment les inégalités spatiales et sociales devant la vie et la mort évoluent-elles sur le long terme, et qu'est-ce qui explique leurs convergences ou divergences ?*
+Mon programme de recherche s'articule autour de **quatre axes complémentaires** à l'intersection de la démographie, de l'économie, de l'histoire et de l'analyse spatiale. Ils convergent vers une question centrale : *comment les inégalités spatiales de longévité et de développement économique évoluent-elles sur le long terme, et qu'est-ce qui explique leurs divergences ou leurs convergences ?*
 
-## 1. Inégalités spatiales de long terme en mortalité et fécondité en France
+La recherche est par nature une entreprise collective, et les travaux présentés ici n'auraient pas été possibles sans mes collègues, dont les noms figurent dans la liste des publications.
 
-Je reconstitue les tables de mortalité régionales et les patterns de fécondité pour les 90 départements français depuis 1806, construisant ainsi l'une des plus longues séries démographiques sous-nationales continues d'Europe. Ces travaux ont produit des tables de mortalité annuelles par sexe et année (1901–2014, étendues à 1806 pour certains indicateurs), ainsi que des analyses fines des causes de décès dans les arrondissements parisiens (1890–1949).
+## 1. Inégalités spatiales de longévité en France sur le long terme
 
-**Publications-clés** : *PDR* 2025 (mortalité parisienne), *PDR* 2020 (inégalités spatiales 1806–), *Demographic Research* 2020 (méthodes).
+J'ai reconstitué les tables de mortalité régionales des 90 départements français par année et sexe depuis 1901–2023. J'ai reconstitué également les tables de mortalité de Paris et de ses 20 arrondissements par sexe et par année (1872–2019), ainsi que des indicateurs sur les structures de mortalité par cause pour Paris et ses 80 quartiers (1888–1949). À partir de ces données, j'ai documenté la longue période de convergence de l'espérance de vie régionale qu'a connue la France entre la fin du XIX^e^ siècle et la seconde moitié du XX^e^, ainsi que la divergence progressive observée depuis. J'ai également montré que la notion de pénalité urbaine ne s'appliquait pas uniformément à tous les arrondissements parisiens à la fin du XIX^e^ siècle. Enfin, l'analyse des causes de décès m'a permis de mieux caractériser la transition épidémiologique qui s'est jouée à Paris dans la première moitié du XX^e^ siècle.
 
-## 2. Divergences de mortalité régionale en Europe depuis la chute du Mur
+**Publications-clés** : [*PDR* 2020](/en/research/publications/2020-bonnet-padr.qmd) (convergence et divergence entre régions françaises), [*Demographic Research* 2020](/en/research/publications/2020-bonnet-demres.qmd) (French Human Mortality Database), [*PDR* 2025](/en/research/publications/2025-torres-padr.qmd) (transition épidémiologique parisienne).
 
-En collaboration avec des collègues du BiB de Wiesbaden et de l'INED, je documente et explique les trajectoires divergentes de mortalité des régions européennes depuis 1992. Ces travaux ont mis en évidence le ralentissement structurel des gains d'espérance de vie en Europe occidentale après 2005, les dynamiques fortement hétérogènes des morts de désespoir, et l'asymétrie du fardeau de la pandémie de COVID-19.
+## 2. Divergences de longévité entre régions européennes depuis 1990
 
-**Publications-clés** : *Nature Communications* 2024 (COVID-19, 569 régions), *Nature Communications* 2026 (divergence en longévité), *PDR* 2024 (convergence).
+J'ai documenté et expliqué les trajectoires divergentes de longévité des régions européennes depuis la chute du mur de Berlin. Ce travail m'a d'abord permis de comparer les situations française et allemande, cette dernière connaissant une divergence rapide ces dernières années. J'ai également contribué à deux études européennes à grande échelle montrant que cette divergence est visible sur l'ensemble de l'espace européen depuis le milieu des années 2000, et qu'elle explique en partie le récent ralentissement récent des gains d'espérance de vie en Europe. Les régions en retard ne convergent plus, et leurs gains d'espérance de vie sont désormais proches de zéro. Les recherches futures devront s'attacher à identifier les causes de ce phénomène.
+
+**Publications-clés** : [*Nature Communications* 2026](/en/research/publications/2026-alliger-natcomm.qmd) (ralentissement européen des gains d'espérance de vie), [*PDR* 2024](/en/research/publications/2024-sauerberg-padr.qmd) (divergence européenne en longévité), [*Population Health Metrics* 2024](/en/research/publications/2024-bonnet-phm.qmd) (comparaison franco-allemande).
 
 ## 3. Crises sanitaires, pandémies et mortalité liée au climat
 
-Cet axe analyse l'impact démographique des grandes crises sanitaires — contemporaines (COVID-19, canicules récentes) et historiques (grippe de 1918, grippe asiatique de 1956, grippe de Hong-Kong de 1969, canicules de 1911 et 2003) — dans une perspective spatiale et historique comparative.
+En parallèle de mes travaux sur les dynamiques démographiques de long terme, je m'intéresse aux événements extrêmes qui ont perturbé la longue marche vers une espérance de vie plus élevée. Cela m'a conduit à étudier la crise majeure la plus récente (la pandémie de Covid-19) d'un point de vue à la fois français et international, avec notamment des estimations de surmortalité régionale à l'échelle européenne. J'ai également examiné des crises plus anciennes, comme les canicules de 1911 et 2003, et les pandémies de grippe espagnole (1918-19) et de Hong-Kong (1968-69). Mes recherches récentes dans ce domaine visent à isoler précisément le choc de la Covid-19 des dynamiques de long terme, et à mobiliser des données fines pour estimer la surmortalité liée aux épisodes de chaleur extrême dans la région méditerranéenne.
 
-**Publications-clés** : *PDR* 2025 (COVID-19 dans une perspective historique), *Demographic Research* 2022 (grippe de Hong-Kong), *PLoS ONE* 2024 (méthodes sous-nationales).
+**Publications-clés** : [*PLoS ONE* 2024](/en/research/publications/2024-bonnet-plosone.qmd) (méthodes de surmortalité sous-nationale), [*Nature Communications* 2024](/en/research/publications/2024-bonnet-natcomm.qmd) (Covid-19 dans 569 régions européennes), [*PDR* 2025](/en/research/publications/2025-bonnet-padrcovid.qmd) (Covid-19 face aux crises historiques), [*Demographic Research* 2022](/en/research/publications/2022-bonnet-demres.qmd) (grippe de Hong-Kong).
 
-## 4. Distribution régionale des revenus en Europe
+## 4. Développement économique régional en Europe
 
-Avec Hippolyte d'Albis et plusieurs collaborateurs, je reconstitue les distributions annuelles de revenus au niveau régional dans plusieurs pays européens (France, Italie, Suisse, Suède, Danemark, Finlande). Ces travaux reposent sur la numérisation d'archives fiscales et un pipeline unifié utilisant `gpinter` (Blanchet, Fournier & Piketty). L'une des principales productions est la nouvelle *French Regional Income Database*.
+Mes recherches incluent l'estimation de données de développement économique à une échelle régionale fine. J'ai reconstitué les niveaux de revenu par habitant pour les départements de France métropolitaine depuis 1922, à partir des statistiques fiscales de l'impôt sur le revenu des personnes physiques. J'ai également reconstitué les distributions de revenu des départements français depuis 1960. Ces données ont montré que les inégalités régionales ont fortement diminué de 1922 à la fin du XX^e^ siècle, avant de repartir à la hausse depuis le début des années 2000, sous l'effet d'une polarisation spatiale de plus en plus rapide des ménages les plus aisés. Combinées aux données de mortalité, elles ont également révélé que les régions les plus riches sont aujourd'hui celles où l'espérance de vie est la plus élevée, contrairement à la première moitié du XX^e^ siècle. Les recherches futures viseront à reconstituer des distributions régionales de revenu pour le plus grand nombre possible de pays européens, et à exploiter les statistiques fiscales cachées dans les archives institutionnelles pour construire des indicateurs historiques de développement économique.
 
-**Publications-clés** : *Journal of Economic Geography* 2026 (concentration spatiale des hauts revenus), *Economics and Statistics* 2021 (100 ans d'inégalités régionales).
-
----
-
-## Projets en cours
-
-### ANR SPLIT (PI)
-*Spatial Polarization of Longevity in Post-Pandemic Europe*. Projet franco-allemand avec Pavel Grigoriev (BiB Wiesbaden, PI allemand).
-
-### ERC Redim
-*Reorienting Demographic Imagination*. Participation comme membre de l'équipe.
-
-### ANR Worth-IT
-Outils méthodologiques pour l'analyse de la mortalité sous-nationale.
-
-### ANR Socface
-Gradients socio-économiques de mortalité utilisant les données successorales françaises.
-
-### COST "The Great Leap"
-Réseau européen sur les transitions de longévité et de santé.
----
+**Publications-clés** : [*Journal of Economic Geography* 2026](/en/research/publications/2026-dalbis-jeg.qmd) (concentration spatiale des hauts revenus), [*Économie et Statistique* 2021](/en/research/publications/2021-bonnet-estat.qmd) (cent ans de convergence des revenus régionaux en France), [*PLOS One* 2023](/en/research/publications/2023-bonnet-plosone.qmd) (gradient économique régional de longévité).

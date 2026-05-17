@@ -1,12 +1,13 @@
 ---
 title: "Florian Bonnet"
 subtitle: "Chargé de recherches"
+other-lang-href: /fr/index.html
 image: ../images/Picture.png
 toc: false
 about:
   template: trestles
   image-shape: round
-  image-width: 10em
+  image-width: 20em
   links:
     - text: "Scholar"
       href: https://scholar.google.com/citations?user=6mVk71QAAAAJ&hl=en
@@ -39,7 +40,7 @@ I am co-director of the [French Regional Database](https://frdata.org/en/) and c
 
 ## Selected recent publications
 
--   [Structural Change and Spatial Concentration of High Earners: Evidence from French Regions since 1960](./research/publications/2026-dalbis-jeg.qmd). *Journal of Economic Geography (Forthcoming)*.
+-   [Structural Change and Spatial Concentration of High Earners: Evidence from French Regions since 1960](./research/publications/2026-dalbis-jeg.qmd). *Journal of Economic Geography*.
 -   [Potential and challenges for sustainable progress in human longevity](./research/publications/2026-alliger-natcomm.qmd). *Nature Communications (2026)*.
 -   [Life and Death in a Changing City: Mortality Patterns and Inequalities in Paris, 1890–1949](./research/publications/2025-torres-padr.qmd). *Population and Development Review (2025)*.
 
@@ -47,7 +48,7 @@ I am co-director of the [French Regional Database](https://frdata.org/en/) and c
 
 -   [New article](https://www.lemonde.fr/idees/article/2026/04/13/la-nouvelle-geographie-des-hauts-revenus-est-une-geographie-du-service-et-de-la-mondialisation_6679670_3232.html) in Le Monde about the recent economic divergence between French regions.
 
--   *New paper accepted in Population Health Metrics*: "Social Inequalities in Cause-specific Premature Mortality in Rural and Urban Areas of Mainland France Using Population Attributable Fractions (PAFs): A Pre-Pandemic Analysis"
+-   [New paper accepted in Population Health Metrics](./research/publicati2026-nour-phm.qmd): "Social Inequalities in Cause-specific Premature Mortality in Rural and Urban Areas of Mainland France Using Population Attributable Fractions (PAFs): A Pre-Pandemic Analysis"
 
 -   *Oral presentation* during the [16th Supercentenarian International Seminar](https://www.supercentenarians.org/en/actualite) (Ined, France) about spatial disparities in the probabilities of reaching age 100 in France for cohorts born in the early 20th century.
 

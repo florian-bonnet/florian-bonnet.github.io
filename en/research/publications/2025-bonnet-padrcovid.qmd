@@ -1,5 +1,6 @@
 ---
 title: "Contextualizing the Global Burden of COVID-19 Pandemic: A Historical and Geographical Exploration of Excess Mortality in France, 1901-2021"
+other-lang-href: /fr/research/publications.html
 author: "F. Bonnet and C.-G. Camarda"
 date: "2025"
 venue: "Population and Development Review"

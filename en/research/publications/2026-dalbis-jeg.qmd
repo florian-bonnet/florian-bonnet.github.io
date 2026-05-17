@@ -1,5 +1,6 @@
 ---
 title: "Structural Change and Spatial Concentration of High Earners: Evidence from French Regions since 1960"
+other-lang-href: /fr/research/publications.html
 author: "F. Bonnet, H. d'Albis and A. Sotura"
 date: "2026"
 venue: "Journal of Economic Geography"

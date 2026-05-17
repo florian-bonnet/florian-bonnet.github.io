@@ -1,5 +1,6 @@
 ---
 title: "Mortality Inequalities in France since the 1920s: Evidence of a Reversal of the Income Gradient in Mortality"
+other-lang-href: /fr/research/publications.html
 author: "F. Bonnet, H. d'Albis and J. Thuilliez"
 date: "2023"
 venue: "PLoS ONE"

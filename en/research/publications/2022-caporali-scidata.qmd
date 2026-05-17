@@ -1,5 +1,6 @@
 ---
 title: "The demography of COVID-19 deaths database, a gateway to well-documented international data"
+other-lang-href: /fr/research/publications.html
 author: "Arianna Caporali, Jenny Garcia, Étienne Couppié, Svitlana Poniakina, Magali Barbieri, Florian Bonnet, Carlo Giovanni Camarda, Emmanuelle Cambois, Iris Hourani, Daria Korotkova, France Meslé, Olga Penina, Jean-Marie Robine, Markus Sauerberg and Catalina Torres"
 date: "2022"
 venue: "Scientific Data"

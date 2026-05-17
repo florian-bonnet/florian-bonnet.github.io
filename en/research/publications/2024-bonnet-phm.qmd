@@ -1,5 +1,6 @@
 ---
 title: "An Innovative Visual Approach to Monitor Simultaneously Two Dimensions of Progress in Longevity: An Application to French and German Regions"
+other-lang-href: /fr/research/publications.html
 author: "F. Bonnet, P. Grigoriev, S. Klüsener, F. Meslé and M. Mühlichen"
 date: "2024"
 venue: "Population Health Metrics"

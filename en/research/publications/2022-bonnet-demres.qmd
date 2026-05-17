@@ -1,5 +1,6 @@
 ---
 title: "Influenza Mortality in French Regions after the Hong-Kong Flu Pandemic"
+other-lang-href: /fr/research/publications.html
 author: "F. Bonnet, H. d'Albis and J. Thuilliez"
 date: "2022"
 venue: "Demographic Research"

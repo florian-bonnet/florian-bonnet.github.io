@@ -1,5 +1,6 @@
 ---
 title: "Income Inequality across French Departments over the Last 100 Years"
+other-lang-href: /fr/research/publications.html
 author: "F.Bonnet, H. d'Albis and A. Sotura"
 date: "2021"
 venue: "Economics and Statistics"

@@ -1,24 +1,105 @@
 ---
 title: "Enseignement"
+other-lang-href: /en/teaching.html
 ---
 
 ## Enseignements actuels
 
-### Classes préparatoires
-**Économie-droit, 2e année** — [ENC Blomet](https://www.encblomet.fr), Paris
+**Toulouse School of Economics** : *Démographie empirique*. L2, 15h/an, depuis 2024
 
-### Enseignement universitaire
-- **L2** — Toulouse School of Economics
-- **M2** — Paris School of Economics
-- **M2** — Université d'Angers
+**Paris School of Economics** : *Politiques de population*. M2, 6h/an, depuis 2023
 
-## Approche pédagogique
+**Université d'Angers** : *Atelier Silver Economy*. M1, 6h/an, depuis 2022
 
-Mes supports sont construits en LaTeX Beamer, avec une forte préférence pour le contenu visuel plutôt que les listes à puces. Les matériels sont généralement disponibles sur demande — n'hésitez pas à me [contacter par email](about/contact.qmd).
+## Enseignements passés
 
-## Encadrement
+### Économie, préparation à l'*Agrégation* (M2)
 
-*À compléter.*
----
+**ENS Paris-Saclay**, 2018–2020
 
-## 
+Responsable de la filière économie de la préparation à l'*Agrégation d'économie-gestion*. Cours hebdomadaires de 3 heures (31 séances par an) combinant contenu théorique et études de cas contemporaines, complétés par 5 épreuves écrites (dissertations de 5h) et 3 épreuves orales (présentations d'1h). Les étudiants assuraient une revue de presse continue tout au long de l'année.
+
+<details>
+
+<summary>Programme du cours (14 chapitres)</summary>
+
+J'ai personnellement assuré 13 des 14 chapitres.
+
+-   Chapitre 1 — Théorie microéconomique classique
+-   Chapitre 2 — Remises en cause de la théorie microéconomique classique
+-   Chapitre 3 — Consommation, épargne, investissement
+-   Chapitre 4 — Commerce international
+-   Chapitre 5 — Système monétaire et financier international *(par [Samuel Ligonnière](https://samuelligonniere.com/))*
+-   Chapitre 6 — Croissance et développement
+-   Chapitre 7 — Efficacité de l'État et des institutions
+-   Chapitre 8 — L'Union européenne
+-   Chapitre 9 — Politiques économiques conjoncturelles
+-   Chapitre 10 — Emploi et chômage
+-   Chapitre 11 — Politiques de la concurrence
+-   Chapitre 12 — Politiques de compétitivité
+-   Chapitre 13 — Protection sociale et démographie
+-   Chapitre 14 — Fiscalité, justice sociale et inégalités
+
+**Séances de méthodologie** : techniques d'épreuves écrites et orales en économie
+
+**Cours invités** : économie de l'environnement, économie de l'éducation, risque, assurance et information asymétrique
+
+</details>
+
+### Contrôle de gestion, préparation à l'*Agrégation* (M2)
+
+**ENS Paris-Saclay**, 2015–2018
+
+Partie d'un parcours plus large de préparation couvrant comptabilité, finance d'entreprise et contrôle de gestion. Le contrôle de gestion était dispensé en 12 séances de 3 heures par an.
+
+<details>
+
+<summary>Programme du cours (12 chapitres)</summary>
+
+-   Introduction — Enjeux du contrôle de gestion
+-   Chapitre 1-A — Coûts complets : la méthode des centres d'analyse
+-   Chapitre 1-B — Coûts complets : la méthode ABC
+-   Chapitre 2 — Coûts partiels
+-   Chapitre 3 — Gestion des approvisionnements
+-   Chapitre 4 — Techniques de prévision des ventes
+-   Chapitre 5 — Gestion budgétaire et décisions d'investissement
+-   Chapitre 6 — Budget de production
+-   Chapitre 7 — Gestion des ressources humaines
+-   Chapitre 8 — Analyse des écarts
+-   Chapitre 9 — Coût cible
+-   Chapitre 10 — Centres de responsabilité et prix de cession internes
+-   Chapitre 11 — Gestion de projet
+-   Chapitre 12 — Tableaux de bord et reporting
+
+</details>
+
+### Autres activités d'enseignement
+
+<details>
+
+<summary>Liste des interventions</summary>
+
+-   **Université de Strasbourg** : M1 *Démographie et économie*. Croissance et démographie (2021, 3h)
+-   **ENS Paris-Saclay** : L3 *Économie et démographie historiques* (2020, 20h).
+-   **ENS Paris-Saclay** : Jury du concours d'entrée du département Sciences sociales (2019–2021).
+-   **ENS Paris-Saclay** : *Agrégation* de sciences sociales. Inégalités sur le marché du travail et discriminations (2018, 15h)
+-   **ENS Paris-Saclay** : Examinateur oral, *Agrégation*. Préparation économie et gestion (2013–2015)
+-   **Paris 1 Panthéon-Sorbonne** : L1 d'économie. Projets tutorés sur les inégalités (2014, 45h)
+
+</details>
+
+## Manuel
+
+***DSCG 3 : Management et contrôle de gestion***, **Dunod (2017)**
+
+<details>
+
+<summary>Co-écriture et chapitres écrits</summary>
+
+Co-écrit avec S. Sépari, Morgane Le Breton et Pascal Fabre. Responsable de trois chapitres :
+
+-   Chapitre 3 — Structures organisationnelles et contrôle de gestion
+-   Chapitre 5 — Diagnostic stratégique et contrôle de gestion
+-   Chapitre 6 — Mise en œuvre de la stratégie et contrôle de gestion
+
+</details>

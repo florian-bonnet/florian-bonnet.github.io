@@ -1,5 +1,6 @@
 ---
 title: "Method for redistributing misclassified causes of death"
+other-lang-href: /fr/research/publications.html
 author: "F. Bonnet, P. Grigoriev and E. Perdrix"
 date: "2024-04-01"
 venue: "Population Studies"

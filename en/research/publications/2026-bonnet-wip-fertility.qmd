@@ -1,5 +1,6 @@
 ---
 title: "A Unified Innovation–Diffusion Theory of Fertility Transitions: New Insights from French Regional Fertility, 1853-2023"
+other-lang-href: /fr/research/publications.html
 author: "F. Bonnet and S. Florian"
 date: ""
 venue: "Work in progress"

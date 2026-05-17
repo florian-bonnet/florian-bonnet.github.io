@@ -1,5 +1,6 @@
 ---
 title: "Spatial variation in excess mortality across Europe: a cross-sectional study of 561 regions in 21 countries"
+other-lang-href: /fr/research/publications.html
 author: "F. Bonnet, P. Grigoriev, M. Sauerberg, I. Alliger, M. Mühlichen and C.-G. Camarda"
 date: "2024"
 venue: "Journal of Epidemiology and Global Health"

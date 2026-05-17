@@ -1,16 +1,45 @@
 ---
 title: "Outils & Données"
-description: "Applications Shiny, jeux de données et matériel de réplication"
+other-lang-href: /en/research/tools.html
 ---
-
-::: {.callout-note appearance="simple"}
-→ **[Voir la page complète (EN)](../../en/research/tools.qmd)**
-:::
 
 ## Applications interactives
 
-Toutes mes applications Shiny accompagnent les publications correspondantes. Elles permettent d'explorer interactivement les données et résultats. Voir la [version anglaise](../../en/research/tools.qmd) pour la liste complète et les liens.
+### Espérance de vie régionale en Europe
+
+Visualiser les évolutions régionales de la longévité dans 450 régions européennes entre 1992 et 2019.\
+Application compagnon de [Nature Communications (2026)](/en/research/publications/2026-alliger-natcomm.qmd).
+→ [Lancer l'application](https://histdemo.shinyapps.io/ReLoG_Europe/)
+
+### Mortalité par cause à Paris et dans ses quartiers
+
+Visualiser les évolutions parisiennes de la mortalité par cause et les écarts entre les 80 quartiers parisiens de 1890 à 1949.\
+Application compagnon de [Population and Development Review (2025)](/en/research/publications/2025-torres-padr.qmd).
+→ [Lancer l'application](https://mortalidad-pp.shinyapps.io/suppl_results_mortality_cod_paris/) ·
+
+### Surmortalité due à la Covid-19 en Europe
+
+Visualiser les excès de mortalité dans plus de 500 régions européennes en 2020 et 2021.\
+Application compagnon de [Nature Communications (2024)](/en/research/publications/2024-bonnet-natcomm.qmd).
+→ [Lancer l'application](https://histdemo.shinyapps.io/covid_mortality_in_2020_and_2021/)
+
+------------------------------------------------------------------------
 
 ## Données ouvertes
 
-Je suis **co-directeur de la [French Regional Database](https://frdata.org/)**, qui rassemble les données démographiques régionales françaises de référence sur deux siècles.
+### French Regional Database
+
+Je suis actuellement co-directeur de la French Regional Database. Ce projet vise à mettre à disposition des données démographiques et économiques historiques sur les régions de France métropolitaine, et à améliorer la compréhension des spécificités territoriales françaises par leur analyse sur le temps long.
+
+Le projet repose sur la numérisation d'archives conservées par les instituts statistiques français, couvrant notamment l'état civil, les recensements, les déclarations fiscales sur le revenu des ménages et les déclarations de succession.
+
+La numérisation de ces données brutes originales, combinée à des protocoles méthodologiques rigoureux, permet de constituer un ensemble de bases démographiques et économiques au sein de la French Regional Database. Elle inclut aujourd'hui la French Human Mortality Database et la French Regional Income Database.
+
+Les données finales sont disponibles à trois échelles géographiques, cohérentes avec la Nomenclature des unités territoriales statistiques (NUTS) utilisée par Eurostat : les départements (NUTS 3, 97 unités), les anciennes petites régions (NUTS 2, 22 unités) et les actuelles grandes régions (NUTS 1, 13 unités).
+
+→ [Accéder à la French Regional Database](https://frdata.org/) · [French Human Mortality Database](https://frdata.org/en/french-human-mortality-database/) · [French Regional Income Database](https://frdata.org/en/french-regional-income-database/)
+
+### Packages de réplication
+
+La quasi-totalité de mes publications en tant que premier auteur s'accompagne d'un package de réplication.\
+Ils sont tous accessibles sur mon [profil OSF](https://osf.io/fzmev/), ou à partir des fiches individuelles de la page [Publications](publications.qmd).

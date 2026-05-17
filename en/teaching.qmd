@@ -1,5 +1,6 @@
 ---
 title: "Teaching"
+other-lang-href: /fr/teaching.html
 ---
 
 ## Current teaching

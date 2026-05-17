@@ -1,5 +1,6 @@
 ---
 title: "Spatial Disparities in the Mortality Burden of the Covid-19 Pandemic across 569 European Regions (2020-2021)"
+other-lang-href: /fr/research/publications.html
 author: "F. Bonnet P. Grigoriev, M. Sauerberg, I. Alliger, M. Mühlichen and C.-G. Camarda"
 date: "2024"
 venue: "Nature Communications"

@@ -1,5 +1,6 @@
 ---
 title: "Potential and challenges for sustainable progress in human longevity"
+other-lang-href: /fr/research/publications.html
 author: "F. Bonnet, I. Alliger, C.-G. Camarda, S. Klüsener, F. Meslé, M. Mühlichen, J. Thuilliez and P. Grigoriev"
 date: "2026"
 venue: "Nature Communications"

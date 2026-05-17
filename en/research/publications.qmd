@@ -1,6 +1,7 @@
 ---
 title: "Publications"
 description: "Peer-reviewed publications, working papers and work in progress. Click on each paper to see its abstract, data, replication code and other details."
+other-lang-href: /fr/research/publications.html
 listing:
   - id: pubs-listing
     contents: publications
@@ -10,13 +11,13 @@ listing:
       date: "Year"
       title: "Title"
       author: "Authors"
-      venue: "Venue"
+      venue: "Review"
     field-types:
       date: "date"
     date-format: "YYYY"
     sort:
       - "date desc"
-      - "title"
+      - "venue"
     categories: false
     sort-ui: false
     filter-ui: false

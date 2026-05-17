@@ -4,18 +4,13 @@ project:
 
 website:
   title: "Florian Bonnet"
-  description: "Chargé de recherches at INED. Mortality, spatial inequalities, demography."
   site-url: "https://florianbonnet.github.io"
-  
-  # Barre de navigation principale
+  description: "Chargé de recherches at INED. Mortality, spatial inequalities, demography."
+
+  # Barre de navigation principale (en anglais, identique pour les deux langues)
   navbar:
     background: primary
     search: true
-    right:
-      - href: en/index.qmd
-        text: "EN"
-      - href: fr/index.qmd
-        text: "FR"
     left:
       - href: en/index.qmd
         text: Home
@@ -33,19 +28,20 @@ website:
         text: Teaching
       - href: en/cv.qmd
         text: CV
-  
-  # Pied de page
+    right:
+      - href: "{{< meta other-lang-href >}}"
+        text: "EN / FR"
+
+  # Pied de page (identique EN/FR)
   page-footer:
     left: "© 2026 Florian Bonnet"
-    right: 
-      - icon: github
-        href: https://github.com/florianbonnet
+    right:
       - icon: envelope
         href: mailto:florian.bonnet@ined.fr
 
 format:
   html:
-    theme: 
+    theme:
       - cosmo
       - styles.scss
     toc: true

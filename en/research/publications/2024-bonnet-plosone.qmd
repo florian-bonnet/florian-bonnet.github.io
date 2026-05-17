@@ -1,5 +1,6 @@
 ---
 title: "Estimating Subnational Excess Mortality in Times of Pandemic. An application to French départements in 2020"
+other-lang-href: /fr/research/publications.html
 author: "F. Bonnet and C.-G. Camarda"
 date: "2024"
 venue: "PLoS ONE"

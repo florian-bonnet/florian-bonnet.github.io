@@ -1,5 +1,6 @@
 ---
 title: "Dynamics of spatial and socioeconomic inequalities in longevity within a global city: Paris, 1881–2019"
+other-lang-href: /fr/research/publications.html
 author: "F. Bonnet, C.-G. Camarda and C. Torres"
 date: "2026-01-01"
 venue: "Working paper"

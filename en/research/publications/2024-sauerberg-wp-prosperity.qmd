@@ -1,5 +1,6 @@
 ---
 title: "Does prosperity pay? Unraveling the relationship between economic performance and life expectancy across a large number of European regions, 2008-2019"
+other-lang-href: /fr/research/publications.html
 author: "M. Sauerberg, L. A. Cilek, M. Mühlichen, F. Bonnet, I. Alliger and C.-G. Camarda"
 date: "2024"
 venue: "Working paper"

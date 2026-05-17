@@ -1,5 +1,6 @@
 ---
 title: "Divergent trajectories of the Deaths of Despair Burden across Subnational Regions in Europe"
+other-lang-href: /fr/research/publications.html
 author: "F. Bonnet, I. Alliger, C.-G. Camarda, S. Klüsener, F. Meslé, M. Mühlichen, E. Perdrix and P. Grigoriev"
 date: "2026"
 venue: "Working paper"

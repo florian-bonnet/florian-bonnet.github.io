@@ -1,5 +1,6 @@
 ---
 title: "Computations of French Lifetables by Département"
+other-lang-href: /fr/research/publications.html
 author: "F. Bonnet"
 date: "2020"
 venue: "Demographic Research"

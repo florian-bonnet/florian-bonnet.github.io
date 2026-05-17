@@ -1,5 +1,6 @@
 ---
 title: "Mortality convergence in Europe? Spatial differences in life expectancy gains between 1995 and 2019"
+other-lang-href: /fr/research/publications.html
 author: "M. Sauerberg, F. Bonnet, C.-G. Camarda and P. Grigoriev"
 date: "2024"
 venue: "Population and Development Review"

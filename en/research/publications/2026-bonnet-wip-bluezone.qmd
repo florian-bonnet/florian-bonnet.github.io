@@ -1,5 +1,6 @@
 ---
 title: "Born in the right place. The geography of extreme longevity in France"
+other-lang-href: /fr/research/publications.html
 author: "F. Bonnet and M. Poulain"
 date: ""
 venue: "Work in progress"

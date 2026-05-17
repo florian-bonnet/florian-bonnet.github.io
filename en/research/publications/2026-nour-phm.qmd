@@ -1,5 +1,6 @@
 ---
 title: "Social Inequalities in Cause-specific Premature Mortality in Rural and Urban Areas of Mainland France Using Population Attributable Fractions (PAFs): A Pre-Pandemic Analysis"
+other-lang-href: /fr/research/publications.html
 author: "N. Mahrouseh, F. Bonnet, O. Varga, A. Scohy, O. Bruyère, C. Delpierre, B. Devleesschauwer, G. Wyper and R. Haneef"
 date: "2026"
 venue: "Population Health Metrics"

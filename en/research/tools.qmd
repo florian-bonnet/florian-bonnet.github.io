@@ -1,5 +1,6 @@
 ---
 title: "Tools & Data"
+other-lang-href: /fr/research/tools.html
 ---
 
 ## Interactive applications

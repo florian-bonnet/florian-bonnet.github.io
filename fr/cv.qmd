@@ -1,0 +1,94 @@
+---
+title: "Curriculum Vitae <small>(Mis à jour : mai 2026)</small>"
+other-lang-href: /en/cv.html
+---
+
+[**Télécharger le CV complet (PDF)**](../../files/cv-bonnet.pdf){.btn .btn-primary role="button" target="_blank"}
+
+------------------------------------------------------------------------
+
+## Poste actuel
+
+**2020 – présent** : *Chargé de recherches*, unité de recherche Mortalité, santé, épidémiologie, Institut national d'études démographiques (Ined), Paris
+
+## Postes précédents
+
+**2018 – 2020** : Agrégé préparateur, École Normale Supérieure Paris-Saclay
+
+**2015 – 2018** : Moniteur normalien, École Normale Supérieure Paris-Saclay
+
+**2014 – 2015** : Assistant de recherche, Paris School of Economics
+
+## Formation
+
+**2015 – 2018** : Doctorat en économie et en démographie, Paris School of Economics & ENS Paris-Saclay\
+<small>*Prix de la meilleure thèse en économie, Université Paris 1 Panthéon-Sorbonne*</small>
+
+**2013 – 2014** : Master 2 « Analyse et politique économiques », Paris School of Economics
+
+**2012 – 2013** : *Agrégation* d'économie et gestion, ENS Paris-Saclay\
+<small>*Major du concours*</small>
+
+**2010 – 2015** : Élève fonctionnaire, ENS Paris-Saclay
+
+## Publications
+
+*Voir la page [Publications](./research/publications.qmd) pour la liste complète des articles et des documents de travail.*
+
+## Enseignement
+
+*Voir la page [Enseignement](teaching.qmd) pour la liste complète des enseignements actuels et passés.*
+
+## Projets de recherche
+
+**En cours**
+
+-   **ANR *Worth-IT*** : réseau de recherche, 2025-
+-   **COST *The Great Leap*** : réseau de recherche, 2023-
+-   **ERC *Redim*** : réseau de recherche, 2020-
+
+**Passés**
+
+-   **ANR *Socface*** : réseau de recherche, 2020-2024
+-   **The Demography of COVID-19 Deaths Database**, équipe opérationnelle, 2020–2022
+-   **Projet N-ACSEL**, expertise, Banque de France, 2021–2022
+
+## Activités et affiliations
+
+### Science ouverte
+
+**Co-directeur**, [French Regional Database](https://frdata.org/). Données démographiques et économiques historiques sur les régions françaises, 2020-
+
+### Institutionnel
+
+**Membre élu**, Conseil d'administration de l'Ined, 2023
+
+**Comités de sélection**, Ined (doctorants et post-doctorants), 2022–2025
+
+### Évaluation par les pairs
+
+Évaluateur régulier pour *Nature Human Behaviour*, *The Lancet*, *Demography*, *European Economic Review*, *Population and Development Review*, *Demographic Research*, *European Journal of Epidemiology*, *PLOS One*, *Scientific Reports*, ainsi qu'une dizaine d'autres revues en démographie, santé publique et études de population.
+
+## Communications récentes sélectionnées
+
+**2026** : Population Association of America, Saint-Louis (Missouri)
+
+**2026** : 16^e^ Supercentenarian International Seminar, Paris
+
+**2025** : 7^e^ Human Mortality Database Symposium, Paris
+
+**2025** : European Society of Historical Demography, Bologne
+
+**2025** : Population Association of America, Washington DC
+
+**2024** : European Population Conference, Édimbourg
+
+**2024** : Epidemics Past and Present, Barcelone
+
+*Voir le [CV complet](../../files/cv-bonnet.pdf) pour la liste complète des communications.*
+
+## Compétences
+
+**Programmation** : R, LaTeX
+
+**Langues** : français (langue maternelle), anglais (courant), italien (notions)

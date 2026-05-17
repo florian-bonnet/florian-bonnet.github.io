@@ -1,5 +1,6 @@
 ---
 title: "Understanding geographic disparities in mortality overtime in France, 1975-2019"
+other-lang-href: /fr/research/publications.html
 author: "F. Bonnet, A. Lleras-Muney, D. Yue and J. Thuilliez"
 date: "2026"
 venue: "Working paper"
