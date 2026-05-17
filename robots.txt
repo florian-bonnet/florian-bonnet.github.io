@@ -1,1 +1,1 @@
-Sitemap: https://florianbonnet.github.io/sitemap.xml
+Sitemap: https://florian-bonnet.github.io/sitemap.xml
